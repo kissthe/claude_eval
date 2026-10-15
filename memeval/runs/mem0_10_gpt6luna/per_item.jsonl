@@ -1,0 +1,10 @@
+{"sample_id": "pilot_001", "condition": "mem0", "anchor": "A02", "gold": "H", "i_subtype": null, "pred": "P", "context_tokens": 1985, "n_units": 35, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": false, "ev_f1": 0, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}
+{"sample_id": "pilot_005", "condition": "mem0", "anchor": "A02", "gold": "P", "i_subtype": null, "pred": "P", "context_tokens": 1983, "n_units": 37}
+{"sample_id": "pilot_007", "condition": "mem0", "anchor": "A10", "gold": "I", "i_subtype": "no_reaction", "pred": "I", "context_tokens": 2009, "n_units": 35}
+{"sample_id": "pilot_008", "condition": "mem0", "anchor": "A02", "gold": "I", "i_subtype": "no_history_link", "pred": "I", "context_tokens": 1991, "n_units": 36}
+{"sample_id": "pilot_015", "condition": "mem0", "anchor": "A10", "gold": "P", "i_subtype": null, "pred": "P", "context_tokens": 2004, "n_units": 36}
+{"sample_id": "pilot_019", "condition": "mem0", "anchor": "A01", "gold": "I", "i_subtype": "no_reaction", "pred": "I", "context_tokens": 2003, "n_units": 38}
+{"sample_id": "pilot_020", "condition": "mem0", "anchor": "A10", "gold": "I", "i_subtype": "no_history_link", "pred": "P", "context_tokens": 1983, "n_units": 35}
+{"sample_id": "pilot_021", "condition": "mem0", "anchor": "A01", "gold": "H", "i_subtype": null, "pred": "P", "context_tokens": 1991, "n_units": 32, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": false, "ev_f1": 0, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}
+{"sample_id": "pilot_022", "condition": "mem0", "anchor": "A01", "gold": "P", "i_subtype": null, "pred": "P", "context_tokens": 2009, "n_units": 35}
+{"sample_id": "pilot_030", "condition": "mem0", "anchor": "A10", "gold": "H", "i_subtype": null, "pred": "P", "context_tokens": 2009, "n_units": 37, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": false, "ev_f1": 0, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}

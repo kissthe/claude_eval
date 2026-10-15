@@ -1,0 +1,32 @@
+{
+ "sample_id": "pilot_007",
+ "condition": "mem0",
+ "model": "gpt-6-luna",
+ "input_chars": 10684,
+ "raw": "{\"sample_id\":\"pilot_007\",\"label\":\"insufficient_evidence\",\"cue_id\":\"none\",\"evidence_turn_ids\":[]}",
+ "usage": {
+  "completion_tokens": 63,
+  "prompt_tokens": 2728,
+  "total_tokens": 2791,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": 0,
+   "audio_tokens": 0,
+   "reasoning_tokens": 28,
+   "rejected_prediction_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 2725,
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "parsed": {
+  "sample_id": "pilot_007",
+  "label": "insufficient_evidence",
+  "cue_id": "none",
+  "evidence_turn_ids": []
+ },
+ "error": null,
+ "latency_s": 2.79
+}

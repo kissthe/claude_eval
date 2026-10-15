@@ -1,0 +1,299 @@
+{
+ "sample_id": "pilot_008",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-07-23) Gina said that a creative space for dancers is important and that she felt this during dance class with a group of friends on Friday, October 9, 2026. She believes Jon’s studio can become a go-to place for self-expression and encouraged him to keep pursuing his passion for dance; the accompanying photo showed three girls in ballet costumes sitting on a desk. [source turns: conv-30:D19:5, conv-30:D19:6]",
+   "source_turn_ids": [
+    "conv-30:D19:5",
+    "conv-30:D19:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Gina reassured Jon, “You got this,” and offered to help if he needed anything; the accompanying photo showed a notepad and pen. [source turns: conv-30:D16:9, conv-30:D16:10]",
+   "source_turn_ids": [
+    "conv-30:D16:9",
+    "conv-30:D16:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina found a cool new fashion piece for her clothing store and is looking forward to sharing it with her customers. The accompanying photo showed a group of women posing with a giant balloon. [source turns: conv-30:D5:1, conv-30:D5:2]",
+   "source_turn_ids": [
+    "conv-30:D5:1",
+    "conv-30:D5:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-19) Gina loves spending time with friends and having a great time, and is looking forward to having fun at Jon’s dance studio. [source turns: conv-30:D15:15, conv-30:D15:16]",
+   "source_turn_ids": [
+    "conv-30:D15:15",
+    "conv-30:D15:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina said she is excited but somewhat nervous about her fashion internship, which feels like a big change; it is a part-time position in the fashion department of an international company. Her update included a photo of a laptop displaying an unspecified logo. [source turns: conv-30:D12:3, conv-30:D12:4]",
+   "source_turn_ids": [
+    "conv-30:D12:3",
+    "conv-30:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-03) Gina says customers like her designs, so she keeps looking for unique, trendy pieces; growing her customer base is her main focus right now. [source turns: conv-30:D8:9, conv-30:D8:10]",
+   "source_turn_ids": [
+    "conv-30:D8:9",
+    "conv-30:D8:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina told Jon that he looked badass on stage and that the performance looked great. [source turns: conv-30:D5:3, conv-30:D5:4]",
+   "source_turn_ids": [
+    "conv-30:D5:3",
+    "conv-30:D5:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-09) Gina said that fashion editors noticed her around October 8–14, 2026; she found the attention amazing and exciting but also scary, and felt pressure to keep advancing. The accompanying photo showed a mannequin in a room with a wood wall. [source turns: conv-30:D17:1, conv-30:D17:2]",
+   "source_turn_ids": [
+    "conv-30:D17:1",
+    "conv-30:D17:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-13) Gina shared a photo of a cork board displaying pictures and words. [source turns: conv-30:D13:15, conv-30:D13:16]",
+   "source_turn_ids": [
+    "conv-30:D13:15",
+    "conv-30:D13:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-13) Gina’s message included a photo of a person holding a paper bag with a bird pictured on it and a birdie. [source turns: conv-30:D13:17, conv-30:D13:18]",
+   "source_turn_ids": [
+    "conv-30:D13:17",
+    "conv-30:D13:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina feels both excited and scared about getting into fashion, but is trying to stay upbeat and learn as much as she can as she begins her part-time fashion internship at an international company. [source turns: conv-30:D12:5, conv-30:D12:6]",
+   "source_turn_ids": [
+    "conv-30:D12:5",
+    "conv-30:D12:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina designed her clothing store to reflect her personal style and make customers feel cozy. She chose furniture that is both attractive and comfortable, and added a chandelier for a glamorous touch that matches the store’s style. [source turns: conv-30:D3:5, conv-30:D3:6]",
+   "source_turn_ids": [
+    "conv-30:D3:5",
+    "conv-30:D3:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-25) Jon said he has been feeling low on confidence and finds it hard to run his business without believing in himself; he asked Gina how she stays confident in business. [source turns: conv-30:D10:7, conv-30:D10:8]",
+   "source_turn_ids": [
+    "conv-30:D10:7",
+    "conv-30:D10:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-21) Jon accepted Gina’s offer to help create content and manage his social media, and suggested they get together to make the dance studio look awesome. The accompanying photo showed a room with a mirror and a desk. [source turns: conv-30:D18:13, conv-30:D18:14]",
+   "source_turn_ids": [
+    "conv-30:D18:13",
+    "conv-30:D18:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-19) Gina congratulated Jon on his dance studio launch on October 16, 2026, said the studio looks amazing, and expressed excitement about the opening after seeing how much work he had put in. [source turns: conv-30:D15:5, conv-30:D15:6]",
+   "source_turn_ids": [
+    "conv-30:D15:5",
+    "conv-30:D15:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-09) Gina has a trophy from a dance contest, featuring a glass globe on top. She sees it as a reminder of the hard work, dedication, and joy involved in dance. [source turns: conv-30:D9:9, conv-30:D9:10]",
+   "source_turn_ids": [
+    "conv-30:D9:9",
+    "conv-30:D9:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina found a great space for her clothing store and designed it to feel cozy and inviting, so customers can browse trendy pieces; the photo she shared showed many clothes on display. [source turns: conv-30:D3:3, conv-30:D3:4]",
+   "source_turn_ids": [
+    "conv-30:D3:3",
+    "conv-30:D3:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-01-20) Gina used to compete in dance competitions and shows. Her favorite memory was winning first place with her team at a regional competition when she was fifteen; she remembers it as an awesome feeling of accomplishment. [source turns: conv-30:D1:17, conv-30:D1:18]",
+   "source_turn_ids": [
+    "conv-30:D1:17",
+    "conv-30:D1:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina told Jon that stepping into the unknown may feel scary, but his determination and drive could make his dance studio a huge success; she encouraged him to stay positive and keep going. [source turns: conv-30:D11:3, conv-30:D11:4]",
+   "source_turn_ids": [
+    "conv-30:D11:3",
+    "conv-30:D11:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina believes that hard work and effort will help her create a special shopping experience for her clothing-store customers; she recognizes the challenge is tough but feels ready to take it on. [source turns: conv-30:D3:9, conv-30:D3:10]",
+   "source_turn_ids": [
+    "conv-30:D3:9",
+    "conv-30:D3:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-13) A photo accompanying Gina’s message showed a skeleton and a trophy on a black cloth. [source turns: conv-30:D13:5, conv-30:D13:6]",
+   "source_turn_ids": [
+    "conv-30:D13:5",
+    "conv-30:D13:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Gina sees her design as a reminder of the grit it takes to stand out and face challenges. [source turns: conv-30:D16:5, conv-30:D16:6]",
+   "source_turn_ids": [
+    "conv-30:D16:5",
+    "conv-30:D16:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-19) Jon is looking forward to the dance studio’s opening night on October 16, 2026, intends to savor every moment, and says he has put a great deal into it. He thanked Gina for always supporting him. [source turns: conv-30:D15:9, conv-30:D15:10]",
+   "source_turn_ids": [
+    "conv-30:D15:9",
+    "conv-30:D15:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina says a quote helped her stay positive through tough times, and she got a tattoo to remind herself of it. The accompanying image depicts a woman standing on a balcony in a blue dress. [source turns: conv-30:D5:13, conv-30:D5:14]",
+   "source_turn_ids": [
+    "conv-30:D5:13",
+    "conv-30:D5:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-09) Gina told Jon she was glad to have helped and would always be there to cheer him on; the accompanying image showed a drawing of a smiley face floating in water. [source turns: conv-30:D17:17, conv-30:D17:18]",
+   "source_turn_ids": [
+    "conv-30:D17:17",
+    "conv-30:D17:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-04) Gina says her clothing store is doing great, though running it feels like a wild ride. [source turns: conv-30:D4:1, conv-30:D4:2]",
+   "source_turn_ids": [
+    "conv-30:D4:1",
+    "conv-30:D4:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-25) Jon said he was having trouble with his business project and asked Gina for advice on staying motivated during difficult times. [source turns: conv-30:D10:5, conv-30:D10:6]",
+   "source_turn_ids": [
+    "conv-30:D10:5",
+    "conv-30:D10:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Gina told Jon that tracking his plans and goals is important because writing them down gives him a picture of his progress. [source turns: conv-30:D16:11, conv-30:D16:12]",
+   "source_turn_ids": [
+    "conv-30:D16:11",
+    "conv-30:D16:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina says dance feels integral to who she is; she cannot imagine life without it and compares it to air. [source turns: conv-30:D11:7, conv-30:D11:8]",
+   "source_turn_ids": [
+    "conv-30:D11:7",
+    "conv-30:D11:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina wants her clothing store to feel like a cool oasis, creating a comfortable, inviting experience that makes customers want to return. [source turns: conv-30:D3:7, conv-30:D3:8]",
+   "source_turn_ids": [
+    "conv-30:D3:7",
+    "conv-30:D3:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-03) Jon told Gina on October 15, 2026, that he had to shut down his bank account for his business; the decision was tough, but he felt it was necessary. [source turns: conv-30:D8:1, conv-30:D8:2]",
+   "source_turn_ids": [
+    "conv-30:D8:1",
+    "conv-30:D8:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Gina told Jon on October 15, 2026, that she had been going through some tough times lately. [source turns: conv-30:D6:1, conv-30:D6:2]",
+   "source_turn_ids": [
+    "conv-30:D6:1",
+    "conv-30:D6:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-01-20) Gina thought the dancers shown in the photo looked awesome and graceful, and asked Jon whether they were his group performing at the festival. [source turns: conv-30:D1:25, conv-30:D1:26]",
+   "source_turn_ids": [
+    "conv-30:D1:25",
+    "conv-30:D1:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Gina's online clothes store is now open, fulfilling a dream she has had for a while; she is excited to see what happens. The accompanying photo showed a computer screen with a book and a pair of shoes. [source turns: conv-30:D6:5, conv-30:D6:6]",
+   "source_turn_ids": [
+    "conv-30:D6:5",
+    "conv-30:D6:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina had an interview for a design internship on October 14, 2026, and described the experience as very cool. [source turns: conv-30:D11:13, conv-30:D11:14]",
+   "source_turn_ids": [
+    "conv-30:D11:13",
+    "conv-30:D11:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Jon said seeing his goals written on paper helps him stay motivated and focused on his next steps; although he expects the process to be difficult, he believes it will pay off and appreciates Gina’s support. [source turns: conv-30:D16:11, conv-30:D16:12]",
+   "source_turn_ids": [
+    "conv-30:D16:11",
+    "conv-30:D16:12"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 1991,
+ "retrieval_s": 2.14,
+ "error": null
+}

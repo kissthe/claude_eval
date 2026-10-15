@@ -1,0 +1,346 @@
+{
+ "sample_id": "pilot_007",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-08-31) Calvin values his custom octopus guitar as a reminder of his passion for music and the meaningful friendships he has formed [source turns: conv-50:D16:15, conv-50:D16:16]",
+   "source_turn_ids": [
+    "conv-50:D16:15",
+    "conv-50:D16:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin shared a photo of his custom octopus guitar displaying a purple glow around October 15, 2026 [source turns: conv-50:D16:17, conv-50:D16:18]",
+   "source_turn_ids": [
+    "conv-50:D16:17",
+    "conv-50:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin owns a custom-made guitar featuring an octopus design, created by his Japanese artist friend, which represents his love for art and the sea [source turns: conv-50:D16:13, conv-50:D16:14]",
+   "source_turn_ids": [
+    "conv-50:D16:13",
+    "conv-50:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Calvin has not yet visited the small town in Japan with the mountain view, but it is on his to-do list after his Frank Ocean tour ends [source turns: conv-50:D9:15, conv-50:D9:16]",
+   "source_turn_ids": [
+    "conv-50:D9:15",
+    "conv-50:D9:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin uses music as a form of therapy to express himself and work through his emotions, finding it cathartic [source turns: conv-50:D25:11, conv-50:D25:12]",
+   "source_turn_ids": [
+    "conv-50:D25:11",
+    "conv-50:D25:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-15) Calvin praised Dave's car restoration as an art form and expressed that Dave is inspiring, encouraging him to keep up the good work [source turns: conv-50:D19:9, conv-50:D19:10]",
+   "source_turn_ids": [
+    "conv-50:D19:9",
+    "conv-50:D19:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin views his guitar as a representation of his journey, passion for music, and friendships, noting that every mark and strum holds a story [source turns: conv-50:D16:17, conv-50:D16:18]",
+   "source_turn_ids": [
+    "conv-50:D16:17",
+    "conv-50:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-21) Calvin has been experimenting with different genres in his music, adding electronic elements to create a fresh vibe and pushing himself out of his comfort zone [source turns: conv-50:D11:11, conv-50:D11:12]",
+   "source_turn_ids": [
+    "conv-50:D11:11",
+    "conv-50:D11:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-21) Calvin has been experimenting with different music genres to push himself out of his comfort zone, specifically adding electronic elements to his songs for a fresh vibe, which he describes as an exciting process of self-discovery and growth [source turns: conv-50:D11:5, conv-50:D11:6]",
+   "source_turn_ids": [
+    "conv-50:D11:5",
+    "conv-50:D11:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin customized his guitar with a shiny finish to give it a unique look that aligns with his personal style [source turns: conv-50:D16:19, conv-50:D16:20]",
+   "source_turn_ids": [
+    "conv-50:D16:19",
+    "conv-50:D16:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin's guitar features a custom purple glow finish, which he describes as unique and aligned with his personal style [source turns: conv-50:D16:21, conv-50:D16:22]",
+   "source_turn_ids": [
+    "conv-50:D16:21",
+    "conv-50:D16:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin shared a photo of his music studio, which features a keyboard, synthesizer, and other musical equipment, describing it as his creative haven [source turns: conv-50:D6:5, conv-50:D6:6]",
+   "source_turn_ids": [
+    "conv-50:D6:5",
+    "conv-50:D6:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin uses a notebook and pen to write lyrics and notes as part of his creative process [source turns: conv-50:D28:39, conv-50:D28:40]",
+   "source_turn_ids": [
+    "conv-50:D28:39",
+    "conv-50:D28:40"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-09) Calvin has access to a recording studio featuring a large window and a desk [source turns: conv-50:D8:3, conv-50:D8:4]",
+   "source_turn_ids": [
+    "conv-50:D8:3",
+    "conv-50:D8:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin has a dedicated music studio where he creates music, featuring equipment such as a keyboard and synthesizer [source turns: conv-50:D6:7, conv-50:D6:8]",
+   "source_turn_ids": [
+    "conv-50:D6:7",
+    "conv-50:D6:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin shared a photo of his recording studio setup featuring a monitor and keyboard around October 15, 2026 [source turns: conv-50:D28:27, conv-50:D28:28]",
+   "source_turn_ids": [
+    "conv-50:D28:27",
+    "conv-50:D28:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin's place was flooded last week (around October 8, 2026), but he managed to save his music gear and favorite microphone [source turns: conv-50:D6:5, conv-50:D6:6]",
+   "source_turn_ids": [
+    "conv-50:D6:5",
+    "conv-50:D6:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin's place was flooded last week (around October 8, 2026), but he managed to save his music gear and favorite microphone [source turns: conv-50:D6:3, conv-50:D6:4]",
+   "source_turn_ids": [
+    "conv-50:D6:3",
+    "conv-50:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin uses a notebook with a pen and notepad to stay connected to his creative process [source turns: conv-50:D28:33, conv-50:D28:34]",
+   "source_turn_ids": [
+    "conv-50:D28:33",
+    "conv-50:D28:34"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Dave shared a photo of a record player sitting on the floor next to a couch during his conversation with Calvin [source turns: conv-50:D28:43]",
+   "source_turn_ids": [
+    "conv-50:D28:43"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-01) Calvin shared a photo of a book with a space theme on it during his conversation with Dave [source turns: conv-50:D4:3, conv-50:D4:4]",
+   "source_turn_ids": [
+    "conv-50:D4:3",
+    "conv-50:D4:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin uses a pink Floyd headphone, which sits on a shelf in his studio, to help him stay focused when making music [source turns: conv-50:D28:35, conv-50:D28:36]",
+   "source_turn_ids": [
+    "conv-50:D28:35",
+    "conv-50:D28:36"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-13) Calvin shared a photo of himself sitting at a desk in front of a computer while working on music production [source turns: conv-50:D29:13, conv-50:D29:14]",
+   "source_turn_ids": [
+    "conv-50:D29:13",
+    "conv-50:D29:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-15) Calvin asked Dave about his car hobby after previously discussing it in their last conversation [source turns: conv-50:D19:5, conv-50:D19:6]",
+   "source_turn_ids": [
+    "conv-50:D19:5",
+    "conv-50:D19:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin values attention to detail in both music and vehicles, believing that small details distinguish extraordinary work from average work [source turns: conv-50:D25:21, conv-50:D25:22]",
+   "source_turn_ids": [
+    "conv-50:D25:21",
+    "conv-50:D25:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin's home was flooded last week (around October 8, 2026), but he managed to save his music gear and favorite microphone while waiting for insurance to cover repairs [source turns: conv-50:D6:7, conv-50:D6:8]",
+   "source_turn_ids": [
+    "conv-50:D6:7",
+    "conv-50:D6:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-26) Calvin acquired a new vehicle around October 15, 2026 and wrote new music during studio sessions last week, expressing excitement about upcoming collaborations [source turns: conv-50:D2:17, conv-50:D2:18]",
+   "source_turn_ids": [
+    "conv-50:D2:17",
+    "conv-50:D2:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Dave shared a photo of a notebook with a pen and notepad with Calvin around October 15, 2026 [source turns: conv-50:D28:31, conv-50:D28:32]",
+   "source_turn_ids": [
+    "conv-50:D28:31",
+    "conv-50:D28:32"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin shared a photo of a silver disc displayed in a black frame on a table around October 15, 2026 [source turns: conv-50:D25:21, conv-50:D25:22]",
+   "source_turn_ids": [
+    "conv-50:D25:21",
+    "conv-50:D25:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-13) Calvin shared a photo of a group of people sitting around a desk, which Dave identified as potential musicians he is collaborating with [source turns: conv-50:D29:7, conv-50:D29:8]",
+   "source_turn_ids": [
+    "conv-50:D29:7",
+    "conv-50:D29:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Calvin complimented Dave's car restoration progress and asked about the estimated time required to complete it [source turns: conv-50:D14:11, conv-50:D14:12]",
+   "source_turn_ids": [
+    "conv-50:D14:11",
+    "conv-50:D14:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-09) Calvin met with the creative team for his album on October 14, 2026, describing it as a long but awesome session where everything is coming together [source turns: conv-50:D8:1, conv-50:D8:2]",
+   "source_turn_ids": [
+    "conv-50:D8:1",
+    "conv-50:D8:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin identifies as an artist with a goal to create something extraordinary through his craft [source turns: conv-50:D25:21, conv-50:D25:22]",
+   "source_turn_ids": [
+    "conv-50:D25:21",
+    "conv-50:D25:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-23) Calvin is traveling to Japan in November 2026 and will be staying in a furnished apartment with a couch, table, and television [source turns: conv-50:D1:9, conv-50:D1:10]",
+   "source_turn_ids": [
+    "conv-50:D1:9",
+    "conv-50:D1:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin works in a dedicated studio and has a separate cozy relaxation room equipped with a TV, couch, chair, and table for unwinding and finding inspiration [source turns: conv-50:D28:39, conv-50:D28:40]",
+   "source_turn_ids": [
+    "conv-50:D28:39",
+    "conv-50:D28:40"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-03) Calvin performed on stage with his band 'the boys' on October 14, 2026, describing them as talented musicians [source turns: conv-50:D12:11, conv-50:D12:12]",
+   "source_turn_ids": [
+    "conv-50:D12:11",
+    "conv-50:D12:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Calvin expressed excitement for Dave's upcoming visit and wished him well in enjoying his hobbies on October 15, 2026 [source turns: conv-50:D18:13, conv-50:D18:14]",
+   "source_turn_ids": [
+    "conv-50:D18:13",
+    "conv-50:D18:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin works exclusively in his studio and maintains a separate relaxation room equipped with a TV, couch, chair, and table for unwinding and finding inspiration [source turns: conv-50:D28:29, conv-50:D28:30]",
+   "source_turn_ids": [
+    "conv-50:D28:29",
+    "conv-50:D28:30"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin is an artist who creates visual art, specifically working with silver discs framed in black frames [source turns: conv-50:D25:23, conv-50:D25:24]",
+   "source_turn_ids": [
+    "conv-50:D25:23",
+    "conv-50:D25:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Calvin attended a fancy gala in Boston around October 14, 2026, where he met an artist and had an inspiring conversation about music and art [source turns: conv-50:D30:9, conv-50:D30:10]",
+   "source_turn_ids": [
+    "conv-50:D30:9",
+    "conv-50:D30:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Calvin attended a fancy gala in Boston on October 14, 2026, where he met an artist and had an inspiring conversation about music and art [source turns: conv-50:D30:5, conv-50:D30:6]",
+   "source_turn_ids": [
+    "conv-50:D30:5",
+    "conv-50:D30:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-11) Calvin described Dave's passion for auto engineering and custom car building as a fulfilling hobby and asked about specific transformations Dave has completed and the status of his current project [source turns: conv-50:D13:5, conv-50:D13:6]",
+   "source_turn_ids": [
+    "conv-50:D13:5",
+    "conv-50:D13:6"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 1960,
+ "retrieval_s": 2.68,
+ "error": null
+}

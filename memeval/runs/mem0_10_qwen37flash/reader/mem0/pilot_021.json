@@ -1,0 +1,30 @@
+{
+ "sample_id": "pilot_021",
+ "condition": "mem0",
+ "model": "qwen3.7-flash",
+ "input_chars": 10632,
+ "raw": "{\n  \"sample_id\": \"pilot_021\",\n  \"label\": \"history_supported\",\n  \"cue_id\": \"cue_2\",\n  \"evidence_turn_ids\": [\n    \"conv-26:D4:11\",\n    \"conv-26:D4:12\"\n  ]\n}",
+ "usage": {
+  "completion_tokens": 75,
+  "prompt_tokens": 3061,
+  "total_tokens": 3136,
+  "completion_tokens_details": null,
+  "prompt_tokens_details": {
+   "audio_tokens": null,
+   "cache_write_tokens": null,
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "parsed": {
+  "sample_id": "pilot_021",
+  "label": "history_supported",
+  "cue_id": "cue_2",
+  "evidence_turn_ids": [
+   "conv-26:D4:11",
+   "conv-26:D4:12"
+  ]
+ },
+ "error": null,
+ "latency_s": 2.44
+}

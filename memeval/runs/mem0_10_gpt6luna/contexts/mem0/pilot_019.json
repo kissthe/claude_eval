@@ -1,0 +1,315 @@
+{
+ "sample_id": "pilot_019",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-06-27) Caroline shared a photo showing a person holding a necklace with a cross and a heart; Caroline did not state who the person was or whether the necklace had a special meaning. [source turns: conv-26:D4:1, conv-26:D4:2]",
+   "source_turn_ids": [
+    "conv-26:D4:1",
+    "conv-26:D4:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline’s necklace is especially meaningful to her: her grandmother gave it to her when she was young in Sweden, Caroline’s home country. It represents love, faith, strength, her roots, and the love and support she receives from her family. [source turns: conv-26:D4:3, conv-26:D4:4]",
+   "source_turn_ids": [
+    "conv-26:D4:3",
+    "conv-26:D4:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline's favorite color is blue, which makes her feel relaxed. She associates sunflowers with warmth and happiness, and roses with love and beauty. [source turns: conv-26:D8:11, conv-26:D8:12]",
+   "source_turn_ids": [
+    "conv-26:D8:11",
+    "conv-26:D8:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-23) Caroline admired Melanie's horse painting for its details and for capturing the horse's grace and strength. [source turns: conv-26:D13:9, conv-26:D13:10]",
+   "source_turn_ids": [
+    "conv-26:D13:9",
+    "conv-26:D13:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Melanie wanted the blue streaks in her painting to convey tranquility and create a serene feel alongside vibrant colors; she says blue calms her. [source turns: conv-26:D17:15, conv-26:D17:16]",
+   "source_turn_ids": [
+    "conv-26:D17:15",
+    "conv-26:D17:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline thought Melanie’s colorful pottery bowl was awesome and asked what inspired its colors and patterns. [source turns: conv-26:D12:5, conv-26:D12:6]",
+   "source_turn_ids": [
+    "conv-26:D12:5",
+    "conv-26:D12:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline has a hand-painted bowl made by a friend for her 18th birthday ten years ago. She loves its pattern and colors, which remind her of art and self-expression. [source turns: conv-26:D4:5, conv-26:D4:6]",
+   "source_turn_ids": [
+    "conv-26:D4:5",
+    "conv-26:D4:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline shared a painting she made, shown on an easel with a red-and-blue background. [source turns: conv-26:D16:11, conv-26:D16:12]",
+   "source_turn_ids": [
+    "conv-26:D16:11",
+    "conv-26:D16:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie showed Caroline a photo of a pottery bowl with a colorful design; Melanie said she was proud of the project and that making it was a great experience. [source turns: conv-26:D12:3, conv-26:D12:4]",
+   "source_turn_ids": [
+    "conv-26:D12:3",
+    "conv-26:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-20) Caroline shared a photo showing a baby in a white crib with a blue blanket during the conversation about meaningful family milestones. [source turns: conv-26:D10:21, conv-26:D10:22]",
+   "source_turn_ids": [
+    "conv-26:D10:21",
+    "conv-26:D10:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline liked the purple color of Melanie’s sneakers and asked whether they were for walking or running. [source turns: conv-26:D7:19, conv-26:D7:20]",
+   "source_turn_ids": [
+    "conv-26:D7:19",
+    "conv-26:D7:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-23) Caroline loves creating art and sees painting as a way to express herself. Around October 8–14, 2026, she made a self-portrait depicting a woman with a blue face. [source turns: conv-26:D13:11, conv-26:D13:12]",
+   "source_turn_ids": [
+    "conv-26:D13:11",
+    "conv-26:D13:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline visited the beach during the week of October 8–14, 2026, and felt amazed and calm watching the sun dip below the horizon and seeing its vivid colors. The experience inspired her to paint a sunset over the ocean to capture that feeling. [source turns: conv-26:D14:7, conv-26:D14:8]",
+   "source_turn_ids": [
+    "conv-26:D14:7",
+    "conv-26:D14:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline made a painting about her path as a trans woman: red and blue represent the binary gender system, while their mix represents rejecting rigid gender thinking. The painting reminds her to love her authentic self; after a long journey, she is finally proud of who she is. [source turns: conv-26:D16:13, conv-26:D16:14]",
+   "source_turn_ids": [
+    "conv-26:D16:13",
+    "conv-26:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie said she is obsessed with the colors and patterns and designed the bowl to catch the eye and make people smile. She also said painting helps her express her feelings and creativity, with each brushstroke carrying a part of herself. [source turns: conv-26:D12:5, conv-26:D12:6]",
+   "source_turn_ids": [
+    "conv-26:D12:5",
+    "conv-26:D12:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Melanie shared a photo showing a blue vase holding a bouquet of sunflowers and roses. [source turns: conv-26:D8:9, conv-26:D8:10]",
+   "source_turn_ids": [
+    "conv-26:D8:9",
+    "conv-26:D8:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-17) Melanie's message included a photo of a painting with a blue-and-yellow design. [source turns: conv-26:D9:13, conv-26:D9:14]",
+   "source_turn_ids": [
+    "conv-26:D9:13",
+    "conv-26:D9:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Melanie shared a painting she made around October 8–14, 2026, inspired by sunsets; its pink sky and colors make her feel calm. [source turns: conv-26:D17:11, conv-26:D17:12]",
+   "source_turn_ids": [
+    "conv-26:D17:11",
+    "conv-26:D17:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-20) A photo shared in Melanie's message showed a beach with footprints in the sand beneath a blue sky. [source turns: conv-26:D10:17, conv-26:D10:18]",
+   "source_turn_ids": [
+    "conv-26:D10:17",
+    "conv-26:D10:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Melanie has also made an abstract painting, shown in a photo as a painting with a blue background. Melanie says painting is calming and values art as a way to express emotions. [source turns: conv-26:D17:13, conv-26:D17:14]",
+   "source_turn_ids": [
+    "conv-26:D17:13",
+    "conv-26:D17:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-22) Caroline shared a photo showing a clock with a green and yellow design during the conversation. [source turns: conv-26:D19:11, conv-26:D19:12]",
+   "source_turn_ids": [
+    "conv-26:D19:11",
+    "conv-26:D19:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline thought Melanie’s bowl was gorgeous, describing its black-and-white design as fancy, and asked whether Melanie had made it. [source turns: conv-26:D5:7, conv-26:D5:8]",
+   "source_turn_ids": [
+    "conv-26:D5:7",
+    "conv-26:D5:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie told Caroline that she had finished another pottery project and offered to show her a picture of it. [source turns: conv-26:D12:1, conv-26:D12:2]",
+   "source_turn_ids": [
+    "conv-26:D12:1",
+    "conv-26:D12:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline says guitar is mostly her instrument and that playing it helps her express her emotions; the accompanying photo showed a guitar on display in a store. [source turns: conv-26:D15:19, conv-26:D15:20]",
+   "source_turn_ids": [
+    "conv-26:D15:19",
+    "conv-26:D15:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Melanie shared a photo depicting a stained-glass window with a person holding a key while asking Caroline whether she had made more art lately. [source turns: conv-26:D14:15, conv-26:D14:16]",
+   "source_turn_ids": [
+    "conv-26:D14:15",
+    "conv-26:D14:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline told Melanie that the plate was awesome and asked whether Melanie had made it. [source turns: conv-26:D14:3, conv-26:D14:4]",
+   "source_turn_ids": [
+    "conv-26:D14:3",
+    "conv-26:D14:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline shared a photo depicting a stained-glass window with a person on a horse. [source turns: conv-26:D14:15, conv-26:D14:16]",
+   "source_turn_ids": [
+    "conv-26:D14:15",
+    "conv-26:D14:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline has not tried pottery and has been busy painting; on October 15, 2026, she shared a newly finished painting of a sunset displayed on a small easel. [source turns: conv-26:D14:5, conv-26:D14:6]",
+   "source_turn_ids": [
+    "conv-26:D14:5",
+    "conv-26:D14:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline says art gives her great joy, helps her express her feelings, and lets her preserve beautiful moments, such as a bouquet of flowers; the accompanying photo shows a drawing of flowers on a table. [source turns: conv-26:D14:27, conv-26:D14:28]",
+   "source_turn_ids": [
+    "conv-26:D14:27",
+    "conv-26:D14:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline admired a photo showing yellow leaves and said the scene looked cozy. [source turns: conv-26:D16:3, conv-26:D16:4]",
+   "source_turn_ids": [
+    "conv-26:D16:3",
+    "conv-26:D16:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline believes it is important to surround oneself with things that bring joy because life is too short not to; she said this while encouraging Melanie about pottery that makes Melanie happy. [source turns: conv-26:D12:9, conv-26:D12:10]",
+   "source_turn_ids": [
+    "conv-26:D12:9",
+    "conv-26:D12:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline says drawing flowers is one of her favorite art activities and enjoys appreciating nature and sharing it; the accompanying photo shows her holding a drawing of a flower bouquet. [source turns: conv-26:D14:29, conv-26:D14:30]",
+   "source_turn_ids": [
+    "conv-26:D14:29",
+    "conv-26:D14:30"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline praised Melanie's pottery work, saying the effort showed and that Melanie's creativity looked great. [source turns: conv-26:D5:9, conv-26:D5:10]",
+   "source_turn_ids": [
+    "conv-26:D5:9",
+    "conv-26:D5:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline has a collection of children's books for the library she is creating, including classics, stories from different cultures, and educational books. [source turns: conv-26:D6:9, conv-26:D6:10]",
+   "source_turn_ids": [
+    "conv-26:D6:9",
+    "conv-26:D6:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline made a stained-glass window to remind herself and others that everyone has the key within them to discover their true potential and live their best life. The shared image shows three stained-glass windows in a church with a clock. [source turns: conv-26:D14:17, conv-26:D14:18]",
+   "source_turn_ids": [
+    "conv-26:D14:17",
+    "conv-26:D14:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Caroline drew the woman in a dress to represent freedom and being authentic; the drawing reminds her to stay true to herself and embrace her womanhood. [source turns: conv-26:D17:23, conv-26:D17:24]",
+   "source_turn_ids": [
+    "conv-26:D17:23",
+    "conv-26:D17:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Caroline told Melanie that life's unpredictability makes moments like the accident a reminder of how important loved ones are, and said that family is everything. [source turns: conv-26:D18:3, conv-26:D18:4]",
+   "source_turn_ids": [
+    "conv-26:D18:3",
+    "conv-26:D18:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) After Caroline asked whether anything had happened because the café sign looked serious, Melanie clarified that it was only a precaution, said she had a great time, and thanked Caroline for her concern. [source turns: conv-26:D16:17, conv-26:D16:18]",
+   "source_turn_ids": [
+    "conv-26:D16:17",
+    "conv-26:D16:18"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 2003,
+ "retrieval_s": 1.9,
+ "error": null
+}

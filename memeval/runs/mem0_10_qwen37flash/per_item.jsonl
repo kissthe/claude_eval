@@ -1,0 +1,10 @@
+{"sample_id": "pilot_001", "condition": "mem0", "anchor": "A02", "gold": "H", "i_subtype": null, "pred": "invalid", "context_tokens": 1991, "n_units": 41, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": false, "ev_f1": 0, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}
+{"sample_id": "pilot_005", "condition": "mem0", "anchor": "A02", "gold": "P", "i_subtype": null, "pred": "P", "context_tokens": 1986, "n_units": 41}
+{"sample_id": "pilot_007", "condition": "mem0", "anchor": "A10", "gold": "I", "i_subtype": "no_reaction", "pred": "I", "context_tokens": 1960, "n_units": 42}
+{"sample_id": "pilot_008", "condition": "mem0", "anchor": "A02", "gold": "I", "i_subtype": "no_history_link", "pred": "I", "context_tokens": 2001, "n_units": 43}
+{"sample_id": "pilot_015", "condition": "mem0", "anchor": "A10", "gold": "P", "i_subtype": null, "pred": "invalid", "context_tokens": 1959, "n_units": 40}
+{"sample_id": "pilot_019", "condition": "mem0", "anchor": "A01", "gold": "I", "i_subtype": "no_reaction", "pred": "I", "context_tokens": 1970, "n_units": 42}
+{"sample_id": "pilot_020", "condition": "mem0", "anchor": "A10", "gold": "I", "i_subtype": "no_history_link", "pred": "I", "context_tokens": 1998, "n_units": 43}
+{"sample_id": "pilot_021", "condition": "mem0", "anchor": "A01", "gold": "H", "i_subtype": null, "pred": "H", "context_tokens": 1998, "n_units": 38, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": true, "ev_f1": 0.0, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}
+{"sample_id": "pilot_022", "condition": "mem0", "anchor": "A01", "gold": "P", "i_subtype": null, "pred": "invalid", "context_tokens": 1991, "n_units": 42}
+{"sample_id": "pilot_030", "condition": "mem0", "anchor": "A10", "gold": "H", "i_subtype": null, "pred": "H", "context_tokens": 1975, "n_units": 40, "retrieved_any_gold": true, "retrieved_full_gold_set": true, "cue_ok": true, "ev_f1": 0.4, "ev_em": 0, "strict_joint": false, "cited_ids_not_in_context": []}

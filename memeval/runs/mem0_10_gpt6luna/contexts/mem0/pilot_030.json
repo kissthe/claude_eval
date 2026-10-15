@@ -1,0 +1,307 @@
+{
+ "sample_id": "pilot_030",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-08-31) Calvin had a custom guitar made by his Japanese artist friend. The guitar features an octopus representing Calvin’s love of art and the sea, and it is one of his favorites. [source turns: conv-50:D16:13, conv-50:D16:14]",
+   "source_turn_ids": [
+    "conv-50:D16:13",
+    "conv-50:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin had his custom guitar given a shiny finish because it gives the instrument a unique look and matches his personal style. [source turns: conv-50:D16:19, conv-50:D16:20]",
+   "source_turn_ids": [
+    "conv-50:D16:19",
+    "conv-50:D16:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin says his custom guitar means a lot to him and reminds him of his passion for music and the amazing friendships he has made. [source turns: conv-50:D16:15, conv-50:D16:16]",
+   "source_turn_ids": [
+    "conv-50:D16:15",
+    "conv-50:D16:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-15) Calvin would have loved to hear Dave and his band’s jam, but felt that some special moments are best kept in people’s hearts and minds rather than captured in audio or video. [source turns: conv-50:D19:3, conv-50:D19:4]",
+   "source_turn_ids": [
+    "conv-50:D19:3",
+    "conv-50:D19:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-15) Dave told Calvin that music brings people together, and that this feeling reminds him of repairing things by making something broken whole again. He loves that sense of restoration and says it is why he keeps doing what he does. [source turns: conv-50:D23:11, conv-50:D23:12]",
+   "source_turn_ids": [
+    "conv-50:D23:11",
+    "conv-50:D23:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin manages his many demands one day at a time. He sometimes feels overwhelmed, but he enjoys what he does and keeps pushing on. [source turns: conv-50:D25:3, conv-50:D25:4]",
+   "source_turn_ids": [
+    "conv-50:D25:3",
+    "conv-50:D25:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin says every mark and strum on his guitar holds a story; a shared photo shows the guitar with a purple glow. [source turns: conv-50:D16:17, conv-50:D16:18]",
+   "source_turn_ids": [
+    "conv-50:D16:17",
+    "conv-50:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Dave recently started a blog about car modifications to share his passion for cars and asked Calvin for blogging tips; the accompanying image shows a car website design. [source turns: conv-50:D28:7, conv-50:D28:8]",
+   "source_turn_ids": [
+    "conv-50:D28:7",
+    "conv-50:D28:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Dave shared a photo of a guitar-themed logo created for his rock band. [source turns: conv-50:D28:21, conv-50:D28:22]",
+   "source_turn_ids": [
+    "conv-50:D28:21",
+    "conv-50:D28:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Calvin thinks Dave playing guitar in a rock band is awesome and believes it will bring Dave many emotions. [source turns: conv-50:D9:19, conv-50:D9:20]",
+   "source_turn_ids": [
+    "conv-50:D9:19",
+    "conv-50:D9:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-13) Calvin says the young musicians he supports through a music program are ambitious, and he expects to support them for a long time as a way of passing the torch and keeping music alive. [source turns: conv-50:D29:11, conv-50:D29:12]",
+   "source_turn_ids": [
+    "conv-50:D29:11",
+    "conv-50:D29:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-01) Calvin received the necklace as a gift from another artist and sees it as a reminder of why he keeps hustling as a musician. [source turns: conv-50:D4:25, conv-50:D4:26]",
+   "source_turn_ids": [
+    "conv-50:D4:25",
+    "conv-50:D4:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin wants to create extraordinary work as an artist and believes attention to small details is what keeps a creation from being merely average. The accompanying photo shows a silver disc in a black frame on a table. [source turns: conv-50:D25:21, conv-50:D25:22]",
+   "source_turn_ids": [
+    "conv-50:D25:21",
+    "conv-50:D25:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Dave and Calvin agreed to visit the calming spot Dave had just shown, pictured as a bench beneath a tree with pink flowers. [source turns: conv-50:D30:19, conv-50:D30:20]",
+   "source_turn_ids": [
+    "conv-50:D30:19",
+    "conv-50:D30:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin considers staying connected and up to date on world events important because incorporating unique perspectives helps his music stand out and connect with his fans; it also keeps him motivated and inspired. [source turns: conv-50:D25:7, conv-50:D25:8]",
+   "source_turn_ids": [
+    "conv-50:D25:7",
+    "conv-50:D25:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin shared a photo of his recording studio setup, which shows a monitor and a keyboard, and described the setup as looking awesome. [source turns: conv-50:D28:27, conv-50:D28:28]",
+   "source_turn_ids": [
+    "conv-50:D28:27",
+    "conv-50:D28:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-03) Calvin says seeing his car every day keeps him motivated and reminds him to keep pushing toward his goals. [source turns: conv-50:D12:9, conv-50:D12:10]",
+   "source_turn_ids": [
+    "conv-50:D12:9",
+    "conv-50:D12:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin's home was flooded around October 8–14, 2026. The incident has been tough, but Calvin managed to save his music gear and favorite microphone, is staying positive, and is looking forward to getting everything fixed up. [source turns: conv-50:D6:3, conv-50:D6:4]",
+   "source_turn_ids": [
+    "conv-50:D6:3",
+    "conv-50:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-09) Calvin asked Dave to take lots of photos during his upcoming trip and show them to Calvin when he gets back; Dave agreed and said he was looking forward to sharing the pictures. [source turns: conv-50:D8:11, conv-50:D8:12]",
+   "source_turn_ids": [
+    "conv-50:D8:11",
+    "conv-50:D8:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-20) Calvin is looking forward to visiting Boston after finishing the Frank Ocean tour; he has heard the city's music scene is excellent and is excited to explore it. [source turns: conv-50:D3:9, conv-50:D3:10]",
+   "source_turn_ids": [
+    "conv-50:D3:9",
+    "conv-50:D3:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-19) Calvin thought the photo’s lights and people made the scene look lively and looked forward to hearing Dave’s reaction when Dave sees it in person. Dave said he hopes to see the place in person soon. [source turns: conv-50:D24:15, conv-50:D24:16]",
+   "source_turn_ids": [
+    "conv-50:D24:15",
+    "conv-50:D24:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-20) Calvin said he had put a lot of work into his red sports car, shown in a photo on display at a car show, and is looking forward to seeing more cars when he visits Boston. [source turns: conv-50:D3:13, conv-50:D3:14]",
+   "source_turn_ids": [
+    "conv-50:D3:13",
+    "conv-50:D3:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-07) Dave recently joined a rock band and has been practicing guitar; he shared a photo of the band playing instruments together in a room. [source turns: conv-50:D10:3, conv-50:D10:4]",
+   "source_turn_ids": [
+    "conv-50:D10:3",
+    "conv-50:D10:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Dave recently joined a rock band and has been practicing guitar; he shared a photo of the band playing instruments together in a room. [source turns: conv-50:D9:17, conv-50:D9:18]",
+   "source_turn_ids": [
+    "conv-50:D9:17",
+    "conv-50:D9:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin praised Dave’s headlights as looking great and asked how Dave achieved the result, showing interest in this specific part of Dave’s car-modification work. [source turns: conv-50:D28:15, conv-50:D28:16]",
+   "source_turn_ids": [
+    "conv-50:D28:15",
+    "conv-50:D28:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-26) Calvin had several studio sessions around the week before October 15, 2026, to work on new tunes; he is excited to collaborate and looks forward to sharing the music with everyone. [source turns: conv-50:D2:17, conv-50:D2:18]",
+   "source_turn_ids": [
+    "conv-50:D2:17",
+    "conv-50:D2:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-15) Calvin praised Dave’s finished vintage-car restoration, saying it looked amazing, and asked whether it was satisfying to see his hard work pay off. [source turns: conv-50:D19:7, conv-50:D19:8]",
+   "source_turn_ids": [
+    "conv-50:D19:7",
+    "conv-50:D19:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-19) Looking at a photo of a city at night with a tall building in the background, Calvin called the view great and said he sometimes wishes he could return to places like it. [source turns: conv-50:D24:17, conv-50:D24:18]",
+   "source_turn_ids": [
+    "conv-50:D24:17",
+    "conv-50:D24:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-07) Calvin is looking forward to trying Japanese food and exploring Japanese culture during his time in Japan. [source turns: conv-50:D10:9, conv-50:D10:10]",
+   "source_turn_ids": [
+    "conv-50:D10:9",
+    "conv-50:D10:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin has recently been inspired by the struggles people experience, prompting him to explore his music more deeply to capture those feelings. [source turns: conv-50:D25:9, conv-50:D25:10]",
+   "source_turn_ids": [
+    "conv-50:D25:9",
+    "conv-50:D25:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin shared a photo of his music studio, which he describes as his creative haven where he pours his heart into music; it contains a keyboard, synthesizer, and other musical equipment. [source turns: conv-50:D6:5, conv-50:D6:6]",
+   "source_turn_ids": [
+    "conv-50:D6:5",
+    "conv-50:D6:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-21) Calvin feels great having his own music-making space and has been experimenting with different genres, pushing beyond his comfort zone by adding electronic elements to his songs for a fresh vibe. He finds the process exciting and describes it as self-discovery and growth. [source turns: conv-50:D11:5, conv-50:D11:6]",
+   "source_turn_ids": [
+    "conv-50:D11:5",
+    "conv-50:D11:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin feels that music has a profound ability to touch people's souls. [source turns: conv-50:D28:25, conv-50:D28:26]",
+   "source_turn_ids": [
+    "conv-50:D28:25",
+    "conv-50:D28:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-01) Calvin finds it amazing when something he creates resonates with people and satisfying to finish something he made from scratch. [source turns: conv-50:D4:11, conv-50:D4:12]",
+   "source_turn_ids": [
+    "conv-50:D4:11",
+    "conv-50:D4:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Calvin had an inspiring conversation with an artist at the Boston gala on October 14, 2026. They connected over music and art, discussed favorite artists and music’s power to connect people, and Calvin felt creatively energized; a photo shows them sitting together on a bench in the snow. [source turns: conv-50:D30:3, conv-50:D30:4]",
+   "source_turn_ids": [
+    "conv-50:D30:3",
+    "conv-50:D30:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin told Dave that the car in the shared photo looked great and praised the effort Dave put into it. [source turns: conv-50:D28:17, conv-50:D28:18]",
+   "source_turn_ids": [
+    "conv-50:D28:17",
+    "conv-50:D28:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-03) Calvin feels stuck with his music and describes his creativity as frozen; he asked Dave for tips. [source turns: conv-50:D5:9, conv-50:D5:10]",
+   "source_turn_ids": [
+    "conv-50:D5:9",
+    "conv-50:D5:10"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 2009,
+ "retrieval_s": 1.71,
+ "error": null
+}

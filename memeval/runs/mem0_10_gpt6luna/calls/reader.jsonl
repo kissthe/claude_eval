@@ -1,0 +1,10 @@
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 1.58, "prompt_tokens": 2719, "completion_tokens": 55, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 1.576, "prompt_tokens": 2640, "completion_tokens": 57, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 1.714, "prompt_tokens": 2707, "completion_tokens": 55, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 1.729, "prompt_tokens": 2738, "completion_tokens": 67, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 2.061, "prompt_tokens": 2715, "completion_tokens": 102, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 2.122, "prompt_tokens": 2668, "completion_tokens": 90, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 2.162, "prompt_tokens": 2683, "completion_tokens": 127, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 2.151, "prompt_tokens": 2586, "completion_tokens": 135, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 2.296, "prompt_tokens": 2728, "completion_tokens": 63, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "gpt-6-luna", "attempt": 0, "latency": 7.311, "prompt_tokens": 2732, "completion_tokens": 179, "empty": false, "error": null}

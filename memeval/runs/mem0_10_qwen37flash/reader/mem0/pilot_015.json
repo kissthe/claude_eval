@@ -1,0 +1,27 @@
+{
+ "sample_id": "pilot_015",
+ "condition": "mem0",
+ "model": "qwen3.7-flash",
+ "input_chars": 10512,
+ "raw": "{\n  \"sample_id\": \"pilot_015\",\n  \"label\": \"present_cause_sufficient\",\n  \"cue_id\": \"cue_1\",\n  \"evidence_turn_ids\": []\n}",
+ "usage": {
+  "completion_tokens": 49,
+  "prompt_tokens": 3083,
+  "total_tokens": 3132,
+  "completion_tokens_details": null,
+  "prompt_tokens_details": {
+   "audio_tokens": null,
+   "cache_write_tokens": null,
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "parsed": {
+  "sample_id": "pilot_015",
+  "label": "present_cause_sufficient",
+  "cue_id": "cue_1",
+  "evidence_turn_ids": []
+ },
+ "error": null,
+ "latency_s": 5.4
+}

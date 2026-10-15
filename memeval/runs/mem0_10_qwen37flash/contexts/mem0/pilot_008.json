@@ -1,0 +1,355 @@
+{
+ "sample_id": "pilot_008",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-07-23) Gina shared a photo of three girls in ballet costumes sitting on a desk [source turns: conv-30:D19:5, conv-30:D19:6]",
+   "source_turn_ids": [
+    "conv-30:D19:5",
+    "conv-30:D19:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Gina sent Jon an encouraging message offering further support, accompanied by a photo of a notepad with a pen [source turns: conv-30:D16:9, conv-30:D16:10]",
+   "source_turn_ids": [
+    "conv-30:D16:9",
+    "conv-30:D16:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina complimented Jon's stage performance, describing him as looking 'badass' on stage [source turns: conv-30:D5:3, conv-30:D5:4]",
+   "source_turn_ids": [
+    "conv-30:D5:3",
+    "conv-30:D5:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Jon writes down his plans on a notepad to stay motivated and focused on his goals [source turns: conv-30:D16:13, conv-30:D16:14]",
+   "source_turn_ids": [
+    "conv-30:D16:13",
+    "conv-30:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina has accepted a part-time position in the fashion department of an international company, feeling excited but nervous about the change [source turns: conv-30:D12:13, conv-30:D12:14]",
+   "source_turn_ids": [
+    "conv-30:D12:13",
+    "conv-30:D12:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina is starting a part-time fashion internship at an international company, feeling excited and nervous about the big change but trying to stay upbeat and learn as much as possible [source turns: conv-30:D12:5, conv-30:D12:6]",
+   "source_turn_ids": [
+    "conv-30:D12:5",
+    "conv-30:D12:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina is starting a part-time internship in the fashion department of an international company around October 2026, feeling excited but nervous about the change [source turns: conv-30:D12:7, conv-30:D12:8]",
+   "source_turn_ids": [
+    "conv-30:D12:7",
+    "conv-30:D12:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina is starting a part-time fashion internship in the fashion department of an international company around October 15, 2026, feeling excited but nervous about the change [source turns: conv-30:D12:11, conv-30:D12:12]",
+   "source_turn_ids": [
+    "conv-30:D12:11",
+    "conv-30:D12:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Jon expressed feeling confident and determined not to give up, appreciating Gina's support [source turns: conv-30:D16:15, conv-30:D16:16]",
+   "source_turn_ids": [
+    "conv-30:D16:15",
+    "conv-30:D16:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Gina and Jon view their shared entrepreneurial challenges as motivating, feeling like they have a partner to support each other on different paths [source turns: conv-30:D6:15, conv-30:D6:16]",
+   "source_turn_ids": [
+    "conv-30:D6:15",
+    "conv-30:D6:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-01-29) Jon and Gina are feeling optimistic about their progress, expressing confidence that success is near and encouraging each other to keep pursuing their goals. [source turns: conv-30:D2:15, conv-30:D2:16]",
+   "source_turn_ids": [
+    "conv-30:D2:15",
+    "conv-30:D2:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-23) Gina believes having a creative space for dancers is important, recalling that she felt this during a dance class with friends last Friday (October 9, 2026) [source turns: conv-30:D19:5, conv-30:D19:6]",
+   "source_turn_ids": [
+    "conv-30:D19:5",
+    "conv-30:D19:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-19) Gina expressed pride in Jon's achievements and encouraged him to enjoy the positive feelings from his hard work on his studio opening night [source turns: conv-30:D15:9, conv-30:D15:10]",
+   "source_turn_ids": [
+    "conv-30:D15:9",
+    "conv-30:D15:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina's clothing store features a chandelier that adds a glamorous feel while matching the overall style of the store decor. [source turns: conv-30:D3:5, conv-30:D3:6]",
+   "source_turn_ids": [
+    "conv-30:D3:5",
+    "conv-30:D3:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-23) Jon expressed gratitude for Gina's support, stating that her presence has made a huge difference and feels great to him [source turns: conv-30:D7:9, conv-30:D7:10]",
+   "source_turn_ids": [
+    "conv-30:D7:9",
+    "conv-30:D7:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina prioritizes creating a comfortable and inviting experience for her clothing store customers, aiming to make the space feel like a cool oasis that encourages repeat visits. [source turns: conv-30:D3:7, conv-30:D3:8]",
+   "source_turn_ids": [
+    "conv-30:D3:7",
+    "conv-30:D3:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-16) Jon feels supported by Gina's backing, stating it helps him keep going and that he won't let her down [source turns: conv-30:D14:19, conv-30:D14:20]",
+   "source_turn_ids": [
+    "conv-30:D14:19",
+    "conv-30:D14:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina believes dancing allows people to be themselves and provides a unique feeling, encouraging Jon to chase his dreams with dedication [source turns: conv-30:D5:17, conv-30:D5:18]",
+   "source_turn_ids": [
+    "conv-30:D5:17",
+    "conv-30:D5:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Gina shared a photo of a bulletin board with pictures of people and words, likely as visual encouragement for Jon [source turns: conv-30:D16:15, conv-30:D16:16]",
+   "source_turn_ids": [
+    "conv-30:D16:15",
+    "conv-30:D16:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-09) Gina was noticed by fashion editors last week (around October 8, 2026), describing the experience as amazing but scary with a lot of pressure to keep going up [source turns: conv-30:D17:1, conv-30:D17:2]",
+   "source_turn_ids": [
+    "conv-30:D17:1",
+    "conv-30:D17:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-13) Gina finds Jon's organizational system cool and emphasizes the importance of being organized for getting things done [source turns: conv-30:D13:11, conv-30:D13:12]",
+   "source_turn_ids": [
+    "conv-30:D13:11",
+    "conv-30:D13:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina's fashion internship is a part-time position in the fashion department of an international company, which she describes as a big change that makes her excited and nervous [source turns: conv-30:D12:3, conv-30:D12:4]",
+   "source_turn_ids": [
+    "conv-30:D12:3",
+    "conv-30:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Gina has been experiencing tough times recently as of October 15, 2026 [source turns: conv-30:D6:1, conv-30:D6:2]",
+   "source_turn_ids": [
+    "conv-30:D6:1",
+    "conv-30:D6:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-03) Gina expressed sympathy for Jon's difficult decision to close his bank account and asked how he is handling the changes [source turns: conv-30:D8:1, conv-30:D8:2]",
+   "source_turn_ids": [
+    "conv-30:D8:1",
+    "conv-30:D8:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina had an interview for a design internship on October 14, 2026, which she found exciting [source turns: conv-30:D11:13, conv-30:D11:14]",
+   "source_turn_ids": [
+    "conv-30:D11:13",
+    "conv-30:D11:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-08) Gina has a tattoo of a quote that helped her stay positive through tough times, indicating she values visual reminders for motivation and resilience [source turns: conv-30:D5:13, conv-30:D5:14]",
+   "source_turn_ids": [
+    "conv-30:D5:13",
+    "conv-30:D5:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-09) Gina has a trophy from a dance contest that serves as a reminder of the hard work, dedication, and joy dance brings her [source turns: conv-30:D9:9, conv-30:D9:10]",
+   "source_turn_ids": [
+    "conv-30:D9:9",
+    "conv-30:D9:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina had a design internship interview on October 14, 2026 and describes the experience as great [source turns: conv-30:D11:15, conv-30:D11:16]",
+   "source_turn_ids": [
+    "conv-30:D11:15",
+    "conv-30:D11:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Gina lost her job at DoorDash, which has made things difficult for her recently [source turns: conv-30:D6:3, conv-30:D6:4]",
+   "source_turn_ids": [
+    "conv-30:D6:3",
+    "conv-30:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina expressed gratitude for Jon's support and affirmed her determination to create a special shopping experience through hard work, viewing the challenge as manageable. [source turns: conv-30:D3:9, conv-30:D3:10]",
+   "source_turn_ids": [
+    "conv-30:D3:9",
+    "conv-30:D3:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-16) Jon offered support to Gina after she mentioned having a tough time, asking what was wrong and if he could help [source turns: conv-30:D6:3, conv-30:D6:4]",
+   "source_turn_ids": [
+    "conv-30:D6:3",
+    "conv-30:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-01-20) Gina uses dance as her primary method for stress relief [source turns: conv-30:D1:7, conv-30:D1:8]",
+   "source_turn_ids": [
+    "conv-30:D1:7",
+    "conv-30:D1:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-25) Gina advised Jon to maintain business confidence by reminding himself of past successes and progress, focusing on his support system, and remembering his original passion for the work [source turns: conv-30:D10:7, conv-30:D10:8]",
+   "source_turn_ids": [
+    "conv-30:D10:7",
+    "conv-30:D10:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-09) Gina encouraged Jon after he shared about losing his job, framing tough times as gateways to awesome things and praising his courage to pursue his dreams [source turns: conv-30:D9:3, conv-30:D9:4]",
+   "source_turn_ids": [
+    "conv-30:D9:3",
+    "conv-30:D9:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-03) Gina encouraged Jon to believe in himself and keep pushing forward as they said goodbye [source turns: conv-30:D8:25, conv-30:D8:26]",
+   "source_turn_ids": [
+    "conv-30:D8:25",
+    "conv-30:D8:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-09) Gina shared a photo of a drawing depicting a smiley face floating in the water as encouragement for Jon [source turns: conv-30:D17:17, conv-30:D17:18]",
+   "source_turn_ids": [
+    "conv-30:D17:17",
+    "conv-30:D17:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-25) Gina started her own online clothing store after losing her job, motivated by a desire to take control of her destiny; she describes the journey as tough but rewarding. [source turns: conv-30:D10:3, conv-30:D10:4]",
+   "source_turn_ids": [
+    "conv-30:D10:3",
+    "conv-30:D10:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-23) Gina expressed happiness at seeing Jon motivated by her words, sending him affection [source turns: conv-30:D19:7, conv-30:D19:8]",
+   "source_turn_ids": [
+    "conv-30:D19:7",
+    "conv-30:D19:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-27) Gina was accepted for a fashion internship around October 15, 2026 and shared the news with Jon after a period of not talking [source turns: conv-30:D12:1, conv-30:D12:2]",
+   "source_turn_ids": [
+    "conv-30:D12:1",
+    "conv-30:D12:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-11) Gina relates to Jon's experience, confirming that dance is her own stress fix as worries vanish once she starts dancing [source turns: conv-30:D11:5, conv-30:D11:6]",
+   "source_turn_ids": [
+    "conv-30:D11:5",
+    "conv-30:D11:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-09) Gina recalled her past dance classes and studio experiences after seeing a photo of young women in ballet attire, noting it brought back many memories [source turns: conv-30:D9:7, conv-30:D9:8]",
+   "source_turn_ids": [
+    "conv-30:D9:7",
+    "conv-30:D9:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Jon stated that he is writing all his plans down and emphasized that Gina's help matters to him [source turns: conv-30:D16:9, conv-30:D16:10]",
+   "source_turn_ids": [
+    "conv-30:D16:9",
+    "conv-30:D16:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-02-01) Gina designed her clothing store space to reflect her personal style and create a cozy atmosphere for customers, selecting furniture that is both aesthetically pleasing and comfortable. [source turns: conv-30:D3:5, conv-30:D3:6]",
+   "source_turn_ids": [
+    "conv-30:D3:5",
+    "conv-30:D3:6"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 2001,
+ "retrieval_s": 1.89,
+ "error": null
+}

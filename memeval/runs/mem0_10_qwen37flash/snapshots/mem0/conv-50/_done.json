@@ -1,0 +1,9 @@
+{
+ "n_add_calls": 292,
+ "n_add_errors": 0,
+ "n_units": 530,
+ "system": "mem0",
+ "conv": "conv-50",
+ "seed": 0,
+ "wall_s": 2180.0
+}

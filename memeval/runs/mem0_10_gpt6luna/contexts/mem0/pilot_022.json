@@ -1,0 +1,290 @@
+{
+ "sample_id": "pilot_022",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-06-27) Caroline shared a photo showing a person holding a necklace with a cross and a heart; Caroline did not state who the person was or whether the necklace had a special meaning. [source turns: conv-26:D4:1, conv-26:D4:2]",
+   "source_turn_ids": [
+    "conv-26:D4:1",
+    "conv-26:D4:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline’s necklace is especially meaningful to her: her grandmother gave it to her when she was young in Sweden, Caroline’s home country. It represents love, faith, strength, her roots, and the love and support she receives from her family. [source turns: conv-26:D4:3, conv-26:D4:4]",
+   "source_turn_ids": [
+    "conv-26:D4:3",
+    "conv-26:D4:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline recently had an upsetting experience while hiking when a group of religious conservatives said something hurtful. The incident reminded her that more work is needed for LGBTQ rights, but support from accepting people reassures her that she will be okay. [source turns: conv-26:D12:1, conv-26:D12:2]",
+   "source_turn_ids": [
+    "conv-26:D12:1",
+    "conv-26:D12:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Melanie shared a photo depicting a stained-glass window with a person holding a key while asking Caroline whether she had made more art lately. [source turns: conv-26:D14:15, conv-26:D14:16]",
+   "source_turn_ids": [
+    "conv-26:D14:15",
+    "conv-26:D14:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) After Caroline asked whether anything had happened because the café sign looked serious, Melanie clarified that it was only a precaution, said she had a great time, and thanked Caroline for her concern. [source turns: conv-26:D16:17, conv-26:D16:18]",
+   "source_turn_ids": [
+    "conv-26:D16:17",
+    "conv-26:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Caroline told Melanie that the children looked cute and seemed to bring lots of joy, and asked how they handled the accident. [source turns: conv-26:D18:5, conv-26:D18:6]",
+   "source_turn_ids": [
+    "conv-26:D18:5",
+    "conv-26:D18:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline told Melanie that the plate was awesome and asked whether Melanie had made it. [source turns: conv-26:D14:3, conv-26:D14:4]",
+   "source_turn_ids": [
+    "conv-26:D14:3",
+    "conv-26:D14:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline thought Melanie’s bowl was gorgeous, describing its black-and-white design as fancy, and asked whether Melanie had made it. [source turns: conv-26:D5:7, conv-26:D5:8]",
+   "source_turn_ids": [
+    "conv-26:D5:7",
+    "conv-26:D5:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Melanie celebrated her daughter's birthday at a concert on October 14, 2026, enjoying the music, joy, and warm summer breeze; seeing her children's smiles made her thankful for their special moments together. Caroline shared a photo of a concert poster featuring a man while asking which concert it was. [source turns: conv-26:D11:1, conv-26:D11:2]",
+   "source_turn_ids": [
+    "conv-26:D11:1",
+    "conv-26:D11:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline thought Melanie’s colorful pottery bowl was awesome and asked what inspired its colors and patterns. [source turns: conv-26:D12:5, conv-26:D12:6]",
+   "source_turn_ids": [
+    "conv-26:D12:5",
+    "conv-26:D12:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Melanie shared a photo of a bulletin board with a rainbow flag and the partial message “don’t ever be afraid to” while asking Caroline what led her to transition and join the transgender community. [source turns: conv-26:D14:11, conv-26:D14:12]",
+   "source_turn_ids": [
+    "conv-26:D14:11",
+    "conv-26:D14:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Melanie asked Caroline for tips on getting started with adoption after Caroline offered to help, continuing Melanie's expressed interest in possibly adopting. [source turns: conv-26:D17:5, conv-26:D17:6]",
+   "source_turn_ids": [
+    "conv-26:D17:5",
+    "conv-26:D17:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline liked the purple color of Melanie’s sneakers and asked whether they were for walking or running. [source turns: conv-26:D7:19, conv-26:D7:20]",
+   "source_turn_ids": [
+    "conv-26:D7:19",
+    "conv-26:D7:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie asked Caroline whether they should plan a family outing for summer 2027. [source turns: conv-26:D12:15, conv-26:D12:16]",
+   "source_turn_ids": [
+    "conv-26:D12:15",
+    "conv-26:D12:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Caroline apologized to Melanie about her son's accident, said it must have been traumatizing for the family, expressed relief that he was okay, and described life as a roller coaster. [source turns: conv-26:D18:1, conv-26:D18:2]",
+   "source_turn_ids": [
+    "conv-26:D18:1",
+    "conv-26:D18:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie told Caroline that she had finished another pottery project and offered to show her a picture of it. [source turns: conv-26:D12:1, conv-26:D12:2]",
+   "source_turn_ids": [
+    "conv-26:D12:1",
+    "conv-26:D12:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Caroline told Melanie that life's unpredictability makes moments like the accident a reminder of how important loved ones are, and said that family is everything. [source turns: conv-26:D18:3, conv-26:D18:4]",
+   "source_turn_ids": [
+    "conv-26:D18:3",
+    "conv-26:D18:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline says art gives her great joy, helps her express her feelings, and lets her preserve beautiful moments, such as a bouquet of flowers; the accompanying photo shows a drawing of flowers on a table. [source turns: conv-26:D14:27, conv-26:D14:28]",
+   "source_turn_ids": [
+    "conv-26:D14:27",
+    "conv-26:D14:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) After her injury forced her to pause pottery, Melanie said the break was tough but she was doing okay; she had been reading a book Caroline recommended earlier and painting to keep busy. [source turns: conv-26:D17:9, conv-26:D17:10]",
+   "source_turn_ids": [
+    "conv-26:D17:9",
+    "conv-26:D17:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline went hiking during the week of October 8–14, 2026, got into a bad situation with some people that really bothered her, and tried to apologize to them. A shared photo showed a woman sitting on a sign at the top of a mountain. [source turns: conv-26:D14:1, conv-26:D14:2]",
+   "source_turn_ids": [
+    "conv-26:D14:1",
+    "conv-26:D14:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline says guitar is mostly her instrument and that playing it helps her express her emotions; the accompanying photo showed a guitar on display in a store. [source turns: conv-26:D15:19, conv-26:D15:20]",
+   "source_turn_ids": [
+    "conv-26:D15:19",
+    "conv-26:D15:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline found sharing her story with young people at the LGBTQ+ youth center especially meaningful because it reminded her of past struggles and feeling alone. She was glad to offer them support and felt she could make a difference. [source turns: conv-26:D15:7, conv-26:D15:8]",
+   "source_turn_ids": [
+    "conv-26:D15:7",
+    "conv-26:D15:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-22) Caroline shared a photo showing a clock with a green and yellow design during the conversation. [source turns: conv-26:D19:11, conv-26:D19:12]",
+   "source_turn_ids": [
+    "conv-26:D19:11",
+    "conv-26:D19:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline made a stained-glass window for a local church that shows how time changes people’s lives. She intended it to reflect her journey as a transgender woman and express the importance of accepting growth and change. [source turns: conv-26:D14:19, conv-26:D14:20]",
+   "source_turn_ids": [
+    "conv-26:D14:19",
+    "conv-26:D14:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline believes it is important to surround oneself with things that bring joy because life is too short not to; she said this while encouraging Melanie about pottery that makes Melanie happy. [source turns: conv-26:D12:9, conv-26:D12:10]",
+   "source_turn_ids": [
+    "conv-26:D12:9",
+    "conv-26:D12:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Melanie showed Caroline a photo of a pottery bowl with a colorful design; Melanie said she was proud of the project and that making it was a great experience. [source turns: conv-26:D12:3, conv-26:D12:4]",
+   "source_turn_ids": [
+    "conv-26:D12:3",
+    "conv-26:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Caroline uses art to explore her transition and changing body and to work through what she is experiencing; creating art also helps her accept the beauty of imperfections. [source turns: conv-26:D11:13, conv-26:D11:14]",
+   "source_turn_ids": [
+    "conv-26:D11:13",
+    "conv-26:D11:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline told Melanie she was looking forward to seeing the pottery project and was happy Melanie had found something that made her happy. [source turns: conv-26:D12:3, conv-26:D12:4]",
+   "source_turn_ids": [
+    "conv-26:D12:3",
+    "conv-26:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline praised Melanie's pottery work, saying the effort showed and that Melanie's creativity looked great. [source turns: conv-26:D5:9, conv-26:D5:10]",
+   "source_turn_ids": [
+    "conv-26:D5:9",
+    "conv-26:D5:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline has a hand-painted bowl made by a friend for her 18th birthday ten years ago. She loves its pattern and colors, which remind her of art and self-expression. [source turns: conv-26:D4:5, conv-26:D4:6]",
+   "source_turn_ids": [
+    "conv-26:D4:5",
+    "conv-26:D4:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline shared a photo depicting a stained-glass window with a person on a horse. [source turns: conv-26:D14:15, conv-26:D14:16]",
+   "source_turn_ids": [
+    "conv-26:D14:15",
+    "conv-26:D14:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-09) Caroline has known her friends for four years, since moving from her home country. Their love and help have been especially important after a difficult breakup, and she feels very thankful for their support. [source turns: conv-26:D3:13, conv-26:D3:14]",
+   "source_turn_ids": [
+    "conv-26:D3:13",
+    "conv-26:D3:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline told Melanie that her friendship means a great deal to her and wished her an enjoyable day. [source turns: conv-26:D8:39]",
+   "source_turn_ids": [
+    "conv-26:D8:39"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline believes finding and holding onto happy moments helps people keep going through life's hardships, and feels lucky to have people like Melanie who remind her of this. [source turns: conv-26:D12:11, conv-26:D12:12]",
+   "source_turn_ids": [
+    "conv-26:D12:11",
+    "conv-26:D12:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline found her time with young people at the LGBTQ+ youth center powerful and emotional. She felt fulfilled guiding and supporting them, was struck by their strength amid the challenges they face, and shared her own story to reassure them they were not alone; the accompanying photo showed a table and a group of people. [source turns: conv-26:D15:5, conv-26:D15:6]",
+   "source_turn_ids": [
+    "conv-26:D15:5",
+    "conv-26:D15:6"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 2009,
+ "retrieval_s": 1.86,
+ "error": null
+}

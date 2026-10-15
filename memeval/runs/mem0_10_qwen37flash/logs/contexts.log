@@ -1,0 +1,3 @@
+/home/user/claude_eval/memeval/.venv/lib/python3.13/site-packages/mem0/vector_stores/qdrant.py:177: UserWarning: Payload indexes have no effect in the local Qdrant. Please use server Qdrant if you need payload indexes.
+  self.client.create_payload_index(
+contexts done: mem0

@@ -1,0 +1,32 @@
+{
+ "sample_id": "pilot_030",
+ "condition": "mem0",
+ "model": "qwen3.7-flash",
+ "input_chars": 10557,
+ "raw": "{\n  \"sample_id\": \"pilot_030\",\n  \"label\": \"history_supported\",\n  \"cue_id\": \"cue_2\",\n  \"evidence_turn_ids\": [\n    \"conv-50:D16:13\",\n    \"conv-50:D16:14\",\n    \"conv-50:D16:15\",\n    \"conv-50:D16:16\"\n  ]\n}",
+ "usage": {
+  "completion_tokens": 105,
+  "prompt_tokens": 3078,
+  "total_tokens": 3183,
+  "completion_tokens_details": null,
+  "prompt_tokens_details": {
+   "audio_tokens": null,
+   "cache_write_tokens": null,
+   "cached_tokens": 0
+  }
+ },
+ "finish_reason": "stop",
+ "parsed": {
+  "sample_id": "pilot_030",
+  "label": "history_supported",
+  "cue_id": "cue_2",
+  "evidence_turn_ids": [
+   "conv-50:D16:13",
+   "conv-50:D16:14",
+   "conv-50:D16:15",
+   "conv-50:D16:16"
+  ]
+ },
+ "error": null,
+ "latency_s": 5.63
+}

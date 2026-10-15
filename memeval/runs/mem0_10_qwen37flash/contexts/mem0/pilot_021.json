@@ -1,0 +1,315 @@
+{
+ "sample_id": "pilot_021",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-06-27) Caroline has a necklace with a cross and a heart, a gift from her grandmother in Sweden that symbolizes love, faith, strength, and her roots [source turns: conv-26:D4:11, conv-26:D4:12]",
+   "source_turn_ids": [
+    "conv-26:D4:11",
+    "conv-26:D4:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Melanie and Caroline reaffirmed their shared journey through life, agreeing that life is about learning and exploring and expressing gladness at traveling this path together [source turns: conv-26:D17:25, conv-26:D17:26]",
+   "source_turn_ids": [
+    "conv-26:D17:25",
+    "conv-26:D17:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline's necklace with a cross and heart pendant is a gift from her grandmother in Sweden, given to her when she was young as a symbol of love, faith, and strength, serving as a reminder of her roots and family support [source turns: conv-26:D4:3, conv-26:D4:4]",
+   "source_turn_ids": [
+    "conv-26:D4:3",
+    "conv-26:D4:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline and Melanie caught up around October 15, 2026, discussing Caroline's sentimental necklace from her Swedish grandmother and a hand-painted bowl made by a friend for Caroline's 18th birthday [source turns: conv-26:D4:7, conv-26:D4:8]",
+   "source_turn_ids": [
+    "conv-26:D4:7",
+    "conv-26:D4:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline shared a photo with Melanie around October 15, 2026, showing a necklace featuring a cross and a heart pendant [source turns: conv-26:D4:1, conv-26:D4:2]",
+   "source_turn_ids": [
+    "conv-26:D4:1",
+    "conv-26:D4:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline drew a flower on the ground, illustrating her appreciation for finding art in unlikely places [source turns: conv-26:D14:23, conv-26:D14:24]",
+   "source_turn_ids": [
+    "conv-26:D14:23",
+    "conv-26:D14:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline views art as a mood-booster and was inspired by seeing someone drawing on the ground, which made her happy [source turns: conv-26:D14:25, conv-26:D14:26]",
+   "source_turn_ids": [
+    "conv-26:D14:25",
+    "conv-26:D14:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Melanie is excited to see where her pottery journey takes her and asked Caroline what she is looking forward to [source turns: conv-26:D5:11, conv-26:D5:12]",
+   "source_turn_ids": [
+    "conv-26:D5:11",
+    "conv-26:D5:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline has been looking into counseling or mental health work more since her last conversation, driven by a passion for helping people and making a positive impact despite the challenges [source turns: conv-26:D6:3, conv-26:D6:4]",
+   "source_turn_ids": [
+    "conv-26:D6:3",
+    "conv-26:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline is still looking into counseling and mental health jobs, motivated by the importance of providing accessible support for people who need someone to talk to [source turns: conv-26:D7:5, conv-26:D7:6]",
+   "source_turn_ids": [
+    "conv-26:D7:5",
+    "conv-26:D7:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline is looking into counseling and mental health as a career to help people who have gone through similar experiences [source turns: conv-26:D4:11, conv-26:D4:12]",
+   "source_turn_ids": [
+    "conv-26:D4:11",
+    "conv-26:D4:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline is creating a library of books and toys for her future children, looking forward to reading to them and opening their minds [source turns: conv-26:D6:7, conv-26:D6:8]",
+   "source_turn_ids": [
+    "conv-26:D6:7",
+    "conv-26:D6:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-17) Melanie had a quiet weekend around October 1-2, 2026, following a camping trip with her family two weekends prior where she unplugged and spent time with her kids [source turns: conv-26:D9:7, conv-26:D9:8]",
+   "source_turn_ids": [
+    "conv-26:D9:7",
+    "conv-26:D9:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-17) Melanie had a quiet weekend on October 10-11, 2026, following a camping trip with her family two weekends prior (September 26-27, 2026), where she unplugged and spent time with her children [source turns: conv-26:D9:1, conv-26:D9:2]",
+   "source_turn_ids": [
+    "conv-26:D9:1",
+    "conv-26:D9:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-25) Melanie is realizing the importance of self-care, understanding that looking after herself enables her to better care for her family [source turns: conv-26:D2:3, conv-26:D2:4]",
+   "source_turn_ids": [
+    "conv-26:D2:3",
+    "conv-26:D2:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline complimented Melanie's black and white flower design bowl, noting it looks gorgeous and fancy [source turns: conv-26:D5:7, conv-26:D5:8]",
+   "source_turn_ids": [
+    "conv-26:D5:7",
+    "conv-26:D5:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline is proud of who she has become after a long journey to self-acceptance, feeling finally proud of her authentic self [source turns: conv-26:D16:13, conv-26:D16:14]",
+   "source_turn_ids": [
+    "conv-26:D16:13",
+    "conv-26:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline's favorite color is blue, which makes her feel relaxed [source turns: conv-26:D8:15, conv-26:D8:16]",
+   "source_turn_ids": [
+    "conv-26:D8:15",
+    "conv-26:D8:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline found the pride parade inspiring, feeling supported and embraced by her community which motivated her deeply [source turns: conv-26:D8:23, conv-26:D8:24]",
+   "source_turn_ids": [
+    "conv-26:D8:23",
+    "conv-26:D8:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline felt proud and grateful at the pride parade, finding comfort in the amazing vibes and knowing she is not alone with a great community around her [source turns: conv-26:D8:21, conv-26:D8:22]",
+   "source_turn_ids": [
+    "conv-26:D8:21",
+    "conv-26:D8:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline finds joy in art as a way to express feelings and capture moments, such as drawing a bouquet of flowers on a table [source turns: conv-26:D14:27, conv-26:D14:28]",
+   "source_turn_ids": [
+    "conv-26:D14:27",
+    "conv-26:D14:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline feels connected and appreciates Melanie's ability to perceive the peace and serenity in her artwork, reinforcing their supportive friendship [source turns: conv-26:D14:9, conv-26:D14:10]",
+   "source_turn_ids": [
+    "conv-26:D14:9",
+    "conv-26:D14:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Caroline views being her authentic self as an ongoing adventure of learning and growing, expressing that it feels great to be herself [source turns: conv-26:D17:25, conv-26:D17:26]",
+   "source_turn_ids": [
+    "conv-26:D17:25",
+    "conv-26:D17:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-08) Caroline found the LGBTQ support group experience empowering, feeling accepted and gaining courage to embrace herself [source turns: conv-26:D1:7, conv-26:D1:8]",
+   "source_turn_ids": [
+    "conv-26:D1:7",
+    "conv-26:D1:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline is inspired by her work making a difference for the LGBTQ+ community and creating a more loving world, feeling thankful for the support of her friends, family, and mentors which motivates her to keep making art [source turns: conv-26:D16:5, conv-26:D16:6]",
+   "source_turn_ids": [
+    "conv-26:D16:5",
+    "conv-26:D16:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-23) Caroline feels liberated and empowered by painting, describing it as therapeutic for exploring her identity and being true to herself [source turns: conv-26:D13:13, conv-26:D13:14]",
+   "source_turn_ids": [
+    "conv-26:D13:13",
+    "conv-26:D13:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline considers her experience at the pride parade one of her top memories due to the sense of acceptance and celebration she felt [source turns: conv-26:D8:19, conv-26:D8:20]",
+   "source_turn_ids": [
+    "conv-26:D8:19",
+    "conv-26:D8:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Melanie praised Caroline's use of art for healing and self-connection, emphasizing the value of individuality and finding beauty in imperfections [source turns: conv-26:D11:15, conv-26:D11:16]",
+   "source_turn_ids": [
+    "conv-26:D11:15",
+    "conv-26:D11:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline associates the song 'Brave' with her personal journey, reflecting on the paths she has taken and the progress she has made [source turns: conv-26:D15:23, conv-26:D15:24]",
+   "source_turn_ids": [
+    "conv-26:D15:23",
+    "conv-26:D15:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Caroline has been trying out abstract painting recently, describing it as freeing and a form of self-expression where she puts feelings on canvas without much planning [source turns: conv-26:D17:13, conv-26:D17:14]",
+   "source_turn_ids": [
+    "conv-26:D17:13",
+    "conv-26:D17:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-23) Caroline used to go horseback riding with her dad when she was a kid, riding through fields and feeling the wind, which fostered her lifelong love for horses [source turns: conv-26:D13:7, conv-26:D13:8]",
+   "source_turn_ids": [
+    "conv-26:D13:7",
+    "conv-26:D13:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline's favorite book is 'Becoming Nicole' by Amy Ellis Nutt, a true story about a trans girl and her family that made her feel connected and gave her hope for her own path [source turns: conv-26:D7:11, conv-26:D7:12]",
+   "source_turn_ids": [
+    "conv-26:D7:11",
+    "conv-26:D7:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline found her volunteer experience at the LGBTQ+ youth center deeply fulfilling, feeling empowered to share her story and let young people know they are not alone while guiding them through their challenges [source turns: conv-26:D15:5, conv-26:D15:6]",
+   "source_turn_ids": [
+    "conv-26:D15:5",
+    "conv-26:D15:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-23) Caroline used to go horseback riding with her dad when she was a kid, enjoying the feeling of wind through the fields [source turns: conv-26:D13:11, conv-26:D13:12]",
+   "source_turn_ids": [
+    "conv-26:D13:11",
+    "conv-26:D13:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Caroline uses art as a tool for self-discovery and acceptance during her transition, allowing her to explore her changing body and learn to accept the beauty of imperfections [source turns: conv-26:D11:13, conv-26:D11:14]",
+   "source_turn_ids": [
+    "conv-26:D11:13",
+    "conv-26:D11:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline has been creating art since age 17 and finds it empowering and cathartic, using painting and drawing to express feelings and explore her gender identity during her transition [source turns: conv-26:D16:9, conv-26:D16:10]",
+   "source_turn_ids": [
+    "conv-26:D16:9",
+    "conv-26:D16:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline found her volunteer experience at the LGBTQ+ youth center deeply meaningful because it reminded her of her own past struggles with loneliness, and she felt glad to share her story to offer support and make a difference for the young people. [source turns: conv-26:D15:7, conv-26:D15:8]",
+   "source_turn_ids": [
+    "conv-26:D15:7",
+    "conv-26:D15:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-22) Caroline attributes her identity and personal growth to the encouragement and support of close friends, family, and mentors during her transition [source turns: conv-26:D19:13, conv-26:D19:14]",
+   "source_turn_ids": [
+    "conv-26:D19:13",
+    "conv-26:D19:14"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 1998,
+ "retrieval_s": 1.85,
+ "error": null
+}

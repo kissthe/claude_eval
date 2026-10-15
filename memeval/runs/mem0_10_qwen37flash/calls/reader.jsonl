@@ -1,0 +1,10 @@
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.028, "prompt_tokens": 3061, "completion_tokens": 75, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.042, "prompt_tokens": 3159, "completion_tokens": 47, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.415, "prompt_tokens": 3159, "completion_tokens": 74, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.507, "prompt_tokens": 3122, "completion_tokens": 74, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.548, "prompt_tokens": 3151, "completion_tokens": 46, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 2.996, "prompt_tokens": 3213, "completion_tokens": 46, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 3.733, "prompt_tokens": 3189, "completion_tokens": 46, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 4.894, "prompt_tokens": 3083, "completion_tokens": 49, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 5.135, "prompt_tokens": 3217, "completion_tokens": 46, "empty": false, "error": null}
+{"component": "reader", "kind": "chat", "model": "qwen3.7-flash", "attempt": 0, "latency": 5.139, "prompt_tokens": 3078, "completion_tokens": 105, "empty": false, "error": null}

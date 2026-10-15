@@ -1,0 +1,106 @@
+{
+ "results": {
+  "mem0": {
+   "accuracy": 0.7,
+   "macro_f1": 0.7666666666666666,
+   "per_class": {
+    "H": {
+     "P": 1.0,
+     "R": 0.6666666666666666,
+     "F1": 0.8
+    },
+    "P": {
+     "P": 1.0,
+     "R": 0.3333333333333333,
+     "F1": 0.5
+    },
+    "I": {
+     "P": 1.0,
+     "R": 1.0,
+     "F1": 1.0
+    }
+   },
+   "P_to_H": 0.0,
+   "I_to_H": 0.0,
+   "NR_to_H": 0.0,
+   "NH_to_H": 0.0,
+   "confusion": {
+    "H": {
+     "invalid": 1,
+     "H": 2
+    },
+    "P": {
+     "P": 1,
+     "invalid": 2
+    },
+    "I": {
+     "I": 4
+    }
+   },
+   "n": 10,
+   "valid_json_rate": 1.0,
+   "schema_ok_rate": 0.7,
+   "H_recall": 0.6666666666666666,
+   "cue_acc_conditional": 1.0,
+   "cue_acc_e2e": 0.6666666666666666,
+   "evidence_em": 0.0,
+   "evidence_f1": 0.13333333333333333,
+   "strict_joint": 0.0,
+   "retrieval_hit_any_gold": 1.0,
+   "retrieval_hit_full_set": 1.0,
+   "hallucinated_evidence_ids": 0,
+   "mean_context_tokens": 1982.9,
+   "provenance_coverage": 1.0,
+   "ci95": [
+    0.6666666666666666,
+    0.7666666666666666
+   ]
+  }
+ },
+ "paired_macro_f1_diff": {},
+ "funnel": {
+  "mem0": {
+   "counts": {
+    "4_retrieved_label_wrong": 1,
+    "6_evidence_not_exact": 2
+   },
+   "items": [
+    {
+     "sample_id": "pilot_001",
+     "stage": "4_retrieved_label_wrong",
+     "pred": "invalid"
+    },
+    {
+     "sample_id": "pilot_021",
+     "stage": "6_evidence_not_exact",
+     "pred": "H"
+    },
+    {
+     "sample_id": "pilot_030",
+     "stage": "6_evidence_not_exact",
+     "pred": "H"
+    }
+   ]
+  }
+ },
+ "costs": {
+  "mem0": {
+   "chat_calls": 694,
+   "chat_errors": 0,
+   "chat_empty": 0,
+   "prompt_tokens": 6263147,
+   "completion_tokens": 103137,
+   "chat_latency_s": 3506.507999999999,
+   "ingest_wall_max_s": 2180.0,
+   "ingest_wall_sum_s": 5013.5
+  },
+  "reader": {
+   "chat_calls": 10,
+   "chat_errors": 0,
+   "chat_empty": 0,
+   "prompt_tokens": 31432,
+   "completion_tokens": 608,
+   "chat_latency_s": 33.437000000000005
+  }
+ }
+}

@@ -1,0 +1,22 @@
+/home/user/claude_eval/memeval/.venv/lib/python3.13/site-packages/mem0/vector_stores/qdrant.py:177: UserWarning: Payload indexes have no effect in the local Qdrant. Please use server Qdrant if you need payload indexes.
+  self.client.create_payload_index(
+[mem0 conv-30] session 1 done
+[mem0 conv-30] session 2 done
+[mem0 conv-30] session 3 done
+[mem0 conv-30] session 4 done
+[mem0 conv-30] session 5 done
+[mem0 conv-30] session 6 done
+[mem0 conv-30] session 7 done
+[mem0 conv-30] session 8 done
+[mem0 conv-30] session 9 done
+[mem0 conv-30] session 10 done
+[mem0 conv-30] session 11 done
+[mem0 conv-30] session 12 done
+[mem0 conv-30] session 13 done
+[mem0 conv-30] session 14 done
+[mem0 conv-30] session 15 done
+[mem0 conv-30] session 16 done
+[mem0 conv-30] session 17 done
+[mem0 conv-30] session 18 done
+[mem0 conv-30] session 19 done
+{"n_add_calls": 188, "n_add_errors": 0, "n_units": 233, "system": "mem0", "conv": "conv-30", "seed": 0, "wall_s": 1264.2}

@@ -1,0 +1,299 @@
+{
+ "sample_id": "pilot_015",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-08-31) Calvin had a custom guitar made by his Japanese artist friend. The guitar features an octopus representing Calvin’s love of art and the sea, and it is one of his favorites. [source turns: conv-50:D16:13, conv-50:D16:14]",
+   "source_turn_ids": [
+    "conv-50:D16:13",
+    "conv-50:D16:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin says his custom guitar means a lot to him and reminds him of his passion for music and the amazing friendships he has made. [source turns: conv-50:D16:15, conv-50:D16:16]",
+   "source_turn_ids": [
+    "conv-50:D16:15",
+    "conv-50:D16:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin had his custom guitar given a shiny finish because it gives the instrument a unique look and matches his personal style. [source turns: conv-50:D16:19, conv-50:D16:20]",
+   "source_turn_ids": [
+    "conv-50:D16:19",
+    "conv-50:D16:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-04) Calvin believes small wins matter because they bring a sense of accomplishment and joy, and he finds personal growth inspiring. [source turns: conv-50:D21:11, conv-50:D21:12]",
+   "source_turn_ids": [
+    "conv-50:D21:11",
+    "conv-50:D21:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin says every mark and strum on his guitar holds a story; a shared photo shows the guitar with a purple glow. [source turns: conv-50:D16:17, conv-50:D16:18]",
+   "source_turn_ids": [
+    "conv-50:D16:17",
+    "conv-50:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Calvin shared a photo from the show showing concertgoers with their hands raised. He loved how engaged the crowd was and said moments like that are why he loves his job. [source turns: conv-50:D14:7, conv-50:D14:8]",
+   "source_turn_ids": [
+    "conv-50:D14:7",
+    "conv-50:D14:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-04) Calvin told Dave that Dave’s dirty hands showed how hard he had worked restoring the car, and said Dave should be proud of his effort. [source turns: conv-50:D21:9, conv-50:D21:10]",
+   "source_turn_ids": [
+    "conv-50:D21:9",
+    "conv-50:D21:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-04) Calvin described the opportunity to help bring a car back to life as a privilege and said the work was satisfying; his photo showed a dirty hand beside a car. [source turns: conv-50:D21:7, conv-50:D21:8]",
+   "source_turn_ids": [
+    "conv-50:D21:7",
+    "conv-50:D21:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-23) Calvin said music brings people together, creates unforgettable memories, and has unbeatable energy; he shared a photo of a concert crowd with hands raised. [source turns: conv-50:D25:25, conv-50:D25:26]",
+   "source_turn_ids": [
+    "conv-50:D25:25",
+    "conv-50:D25:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-21) Calvin thinks Dave playing guitar in a rock band is awesome and believes it will bring Dave many emotions. [source turns: conv-50:D9:19, conv-50:D9:20]",
+   "source_turn_ids": [
+    "conv-50:D9:19",
+    "conv-50:D9:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-03) Calvin visited a Ferrari dealership and saw many amazing cars, but is especially proud of his own red car, shown lifted on a garage lift. He sees it as a reminder of his hard work and dedication, and says it inspires him. [source turns: conv-50:D12:7, conv-50:D12:8]",
+   "source_turn_ids": [
+    "conv-50:D12:7",
+    "conv-50:D12:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-15) Calvin told Dave that seeing people happy because of his work is awesome, described fixing cars as an art, and called Dave inspiring. [source turns: conv-50:D19:9, conv-50:D19:10]",
+   "source_turn_ids": [
+    "conv-50:D19:9",
+    "conv-50:D19:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Calvin’s album was released on the 11th (month and year unspecified). Seeing people support and connect with the album feels awesome but also overwhelming, and their appreciation motivates Calvin to keep going and make even better music. [source turns: conv-50:D18:3, conv-50:D18:4]",
+   "source_turn_ids": [
+    "conv-50:D18:3",
+    "conv-50:D18:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-26) Calvin agrees that seeing favorite performers live is a dream and was glad Dave got to see Aerosmith perform. [source turns: conv-50:D2:15, conv-50:D2:16]",
+   "source_turn_ids": [
+    "conv-50:D2:15",
+    "conv-50:D2:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-01) Calvin received the necklace as a gift from another artist and sees it as a reminder of why he keeps hustling as a musician. [source turns: conv-50:D4:25, conv-50:D4:26]",
+   "source_turn_ids": [
+    "conv-50:D4:25",
+    "conv-50:D4:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-25) Calvin told Dave that seeing Dave follow his dream of becoming an engineer and work on cars inspires Calvin to keep pushing his music. [source turns: conv-50:D26:7, conv-50:D26:8]",
+   "source_turn_ids": [
+    "conv-50:D26:7",
+    "conv-50:D26:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-04-20) Calvin said he had put a lot of work into his red sports car, shown in a photo on display at a car show, and is looking forward to seeing more cars when he visits Boston. [source turns: conv-50:D3:13, conv-50:D3:14]",
+   "source_turn_ids": [
+    "conv-50:D3:13",
+    "conv-50:D3:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-03) Calvin says seeing his car every day keeps him motivated and reminds him to keep pushing toward his goals. [source turns: conv-50:D12:9, conv-50:D12:10]",
+   "source_turn_ids": [
+    "conv-50:D12:9",
+    "conv-50:D12:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-08) Calvin said he enjoys the excitement of seeing impressive cars. He shared a photo showing a red sports car parked in a showroom. [source turns: conv-50:D22:1, conv-50:D22:2]",
+   "source_turn_ids": [
+    "conv-50:D22:1",
+    "conv-50:D22:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-15) Calvin has heard great things about The Fireworks and thinks seeing them perform live would be awesome, with electric crowd energy. [source turns: conv-50:D23:9, conv-50:D23:10]",
+   "source_turn_ids": [
+    "conv-50:D23:9",
+    "conv-50:D23:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-19) Calvin thought the photo’s lights and people made the scene look lively and looked forward to hearing Dave’s reaction when Dave sees it in person. Dave said he hopes to see the place in person soon. [source turns: conv-50:D24:15, conv-50:D24:16]",
+   "source_turn_ids": [
+    "conv-50:D24:15",
+    "conv-50:D24:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-08) Calvin finds bringing broken things back to life satisfying and sees doing work you love for a living as the ultimate goal; he said working on cars can be an escape from reality. [source turns: conv-50:D22:5, conv-50:D22:6]",
+   "source_turn_ids": [
+    "conv-50:D22:5",
+    "conv-50:D22:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-03-23) Calvin is excited to learn about Japanese culture and sees the opportunity as a chance to expand. [source turns: conv-50:D1:5, conv-50:D1:6]",
+   "source_turn_ids": [
+    "conv-50:D1:5",
+    "conv-50:D1:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-13) Calvin supports young musicians through a music program and finds supporting their passion amazing; their enthusiasm inspires him. [source turns: conv-50:D29:9, conv-50:D29:10]",
+   "source_turn_ids": [
+    "conv-50:D29:9",
+    "conv-50:D29:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin described performing on a big stage as a dream come true, saying the incredible energy made him feel on top of the world and that the experience was surreal. [source turns: conv-50:D16:3, conv-50:D16:4]",
+   "source_turn_ids": [
+    "conv-50:D16:3",
+    "conv-50:D16:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-25) Calvin said performing onstage with someone he admires felt unreal and like a dream come true; the energy of the crowd made him realize how deeply music matters to him as both his passion and purpose. [source turns: conv-50:D26:9, conv-50:D26:10]",
+   "source_turn_ids": [
+    "conv-50:D26:9",
+    "conv-50:D26:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) At the small party Calvin held at his Japanese house to celebrate his new album, the room was buzzing with energy and love. Calvin said the experience powerfully reminded him why he makes music; a shared photo showed a group of people standing on top of a stage. [source turns: conv-50:D28:5, conv-50:D28:6]",
+   "source_turn_ids": [
+    "conv-50:D28:5",
+    "conv-50:D28:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-13) Calvin invited an old high school friend to see him perform in Boston; the experience felt incredible, reminded him how far he has come, and reinforced how important relationships are in the music business. [source turns: conv-50:D29:1, conv-50:D29:2]",
+   "source_turn_ids": [
+    "conv-50:D29:1",
+    "conv-50:D29:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-16) Calvin shared a photo of his music studio, which he describes as his creative haven where he pours his heart into music; it contains a keyboard, synthesizer, and other musical equipment. [source turns: conv-50:D6:5, conv-50:D6:6]",
+   "source_turn_ids": [
+    "conv-50:D6:5",
+    "conv-50:D6:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-14) Calvin had an amazing experience touring with a well-known artist; performing and connecting with the audience felt unreal. The tour ended with a show in Japan, after which Calvin had the opportunity to explore his new place, a dream come true. [source turns: conv-50:D14:3, conv-50:D14:4]",
+   "source_turn_ids": [
+    "conv-50:D14:3",
+    "conv-50:D14:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-31) Calvin said the end of his tour was amazing and that the audience’s energy left him feeling pumped. He shared a photo of concertgoers watching a performance on a large screen and said it captured how he felt. [source turns: conv-50:D16:1, conv-50:D16:2]",
+   "source_turn_ids": [
+    "conv-50:D16:1",
+    "conv-50:D16:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-02) Calvin shared a photo of his recording studio setup, which shows a monitor and a keyboard, and described the setup as looking awesome. [source turns: conv-50:D28:27, conv-50:D28:28]",
+   "source_turn_ids": [
+    "conv-50:D28:27",
+    "conv-50:D28:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-09) Calvin feels excited about his album and says his team has been creating music together in the studio; he shared a photo showing a recording studio with a large window and a desk. [source turns: conv-50:D8:3, conv-50:D8:4]",
+   "source_turn_ids": [
+    "conv-50:D8:3",
+    "conv-50:D8:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Calvin had an inspiring conversation with an artist at the Boston gala on October 14, 2026. They connected over music and art, discussed favorite artists and music’s power to connect people, and Calvin felt creatively energized; a photo shows them sitting together on a bench in the snow. [source turns: conv-50:D30:3, conv-50:D30:4]",
+   "source_turn_ids": [
+    "conv-50:D30:3",
+    "conv-50:D30:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Calvin accepted an invitation to perform at an upcoming show in Boston and is excited about the musical experience; he told Dave he would share all the details later. [source turns: conv-50:D30:19, conv-50:D30:20]",
+   "source_turn_ids": [
+    "conv-50:D30:19",
+    "conv-50:D30:20"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-11-17) Dave congratulated Calvin on attending a gala; no further details about the gala were provided. [source turns: conv-50:D30:21, conv-50:D30:22]",
+   "source_turn_ids": [
+    "conv-50:D30:21",
+    "conv-50:D30:22"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 2004,
+ "retrieval_s": 1.5,
+ "error": null
+}

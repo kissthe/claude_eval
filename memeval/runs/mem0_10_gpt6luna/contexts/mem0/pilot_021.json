@@ -1,0 +1,267 @@
+{
+ "sample_id": "pilot_021",
+ "condition": "mem0",
+ "budget": 2048,
+ "n_candidates": 60,
+ "units": [
+  {
+   "text": "(2023-06-27) Caroline shared a photo showing a person holding a necklace with a cross and a heart; Caroline did not state who the person was or whether the necklace had a special meaning. [source turns: conv-26:D4:1, conv-26:D4:2]",
+   "source_turn_ids": [
+    "conv-26:D4:1",
+    "conv-26:D4:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) Caroline’s necklace is especially meaningful to her: her grandmother gave it to her when she was young in Sweden, Caroline’s home country. It represents love, faith, strength, her roots, and the love and support she receives from her family. [source turns: conv-26:D4:3, conv-26:D4:4]",
+   "source_turn_ids": [
+    "conv-26:D4:3",
+    "conv-26:D4:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline found her time with young people at the LGBTQ+ youth center powerful and emotional. She felt fulfilled guiding and supporting them, was struck by their strength amid the challenges they face, and shared her own story to reassure them they were not alone; the accompanying photo showed a table and a group of people. [source turns: conv-26:D15:5, conv-26:D15:6]",
+   "source_turn_ids": [
+    "conv-26:D15:5",
+    "conv-26:D15:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-28) Caroline is helping organize a talent show for children in November 2026 and is looking forward to seeing everyone enjoy themselves and feel proud of their talents. [source turns: conv-26:D15:11, conv-26:D15:12]",
+   "source_turn_ids": [
+    "conv-26:D15:11",
+    "conv-26:D15:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline said that being around people who embrace and support her at the pride parade was beyond words and deeply inspired her; a photo showed a group sitting on the ground with a dog. [source turns: conv-26:D8:23, conv-26:D8:24]",
+   "source_turn_ids": [
+    "conv-26:D8:23",
+    "conv-26:D8:24"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-25) Melanie is recognizing that self-care is important and describes it as a journey; when she looks after herself, she feels better able to care for her family. [source turns: conv-26:D2:3, conv-26:D2:4]",
+   "source_turn_ids": [
+    "conv-26:D2:3",
+    "conv-26:D2:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-17) Melanie went camping with her family around October 3–4, 2026, and enjoyed unplugging and spending time with the kids; she then had a quiet weekend. [source turns: conv-26:D9:1, conv-26:D9:2]",
+   "source_turn_ids": [
+    "conv-26:D9:1",
+    "conv-26:D9:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline says art can boost someone’s mood and lighten their day; seeing someone draw on the ground around October 14, 2026, made her happy. The accompanying photo shows a painting of flowers and a watercolor palette. [source turns: conv-26:D14:25, conv-26:D14:26]",
+   "source_turn_ids": [
+    "conv-26:D14:25",
+    "conv-26:D14:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline recently had an upsetting experience while hiking when a group of religious conservatives said something hurtful. The incident reminded her that more work is needed for LGBTQ rights, but support from accepting people reassures her that she will be okay. [source turns: conv-26:D12:1, conv-26:D12:2]",
+   "source_turn_ids": [
+    "conv-26:D12:1",
+    "conv-26:D12:2"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline told Melanie she was looking forward to seeing the pottery project and was happy Melanie had found something that made her happy. [source turns: conv-26:D12:3, conv-26:D12:4]",
+   "source_turn_ids": [
+    "conv-26:D12:3",
+    "conv-26:D12:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline has been looking more seriously into counseling or mental-health work since her last chat. She is passionate about helping people and making a positive impact, and describes the work as tough but rewarding. [source turns: conv-26:D6:3, conv-26:D6:4]",
+   "source_turn_ids": [
+    "conv-26:D6:3",
+    "conv-26:D6:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline is creating a library for the children she hopes to have, looking forward to reading to them and opening their minds; a photo showed a bookcase filled with books and toys. Caroline said being a mom is awesome. [source turns: conv-26:D6:7, conv-26:D6:8]",
+   "source_turn_ids": [
+    "conv-26:D6:7",
+    "conv-26:D6:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline is still looking into counseling and mental-health jobs because she believes it is important for people to have someone to talk to, and she wants to help make that support available. [source turns: conv-26:D7:5, conv-26:D7:6]",
+   "source_turn_ids": [
+    "conv-26:D7:5",
+    "conv-26:D7:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-06-27) As of October 15, 2026, Caroline has been actively looking into counseling and mental health as a career so she can help people who have gone through experiences similar to hers; she shared a photo of a bookshelf with many books while discussing this exploration. [source turns: conv-26:D4:11, conv-26:D4:12]",
+   "source_turn_ids": [
+    "conv-26:D4:11",
+    "conv-26:D4:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) After Caroline asked whether anything had happened because the café sign looked serious, Melanie clarified that it was only a precaution, said she had a great time, and thanked Caroline for her concern. [source turns: conv-26:D16:17, conv-26:D16:18]",
+   "source_turn_ids": [
+    "conv-26:D16:17",
+    "conv-26:D16:18"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Melanie said her children were scared after the accident, so she and the family reassured them and explained that their brother would be okay; she described the children as tough. [source turns: conv-26:D18:7, conv-26:D18:8]",
+   "source_turn_ids": [
+    "conv-26:D18:7",
+    "conv-26:D18:8"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-09-13) Caroline admired a photo showing yellow leaves and said the scene looked cozy. [source turns: conv-26:D16:3, conv-26:D16:4]",
+   "source_turn_ids": [
+    "conv-26:D16:3",
+    "conv-26:D16:4"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-22) Caroline says transitioning and finding acceptance were difficult, but support from friends, family, and people she looked up to helped her through tough times and discover who she is. She wants to pass that support on, and bringing others comfort and helping them grow brings her joy. [source turns: conv-26:D19:9, conv-26:D19:10]",
+   "source_turn_ids": [
+    "conv-26:D19:9",
+    "conv-26:D19:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-20) Caroline told Melanie that the children looked cute and seemed to bring lots of joy, and asked how they handled the accident. [source turns: conv-26:D18:5, conv-26:D18:6]",
+   "source_turn_ids": [
+    "conv-26:D18:5",
+    "conv-26:D18:6"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-05-08) Caroline said painting looks like a great outlet for expressing yourself, reflecting her positive view of art as a form of self-expression. [source turns: conv-26:D1:15, conv-26:D1:16]",
+   "source_turn_ids": [
+    "conv-26:D1:15",
+    "conv-26:D1:16"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-03) Caroline praised Melanie's pottery work, saying the effort showed and that Melanie's creativity looked great. [source turns: conv-26:D5:9, conv-26:D5:10]",
+   "source_turn_ids": [
+    "conv-26:D5:9",
+    "conv-26:D5:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline says finding the courage to transition and live authentically without fear was the best part; expressing herself freely and having people support her feels freeing. The accompanying photo showed a teepee with a teddy bear and pillows. [source turns: conv-26:D8:25, conv-26:D8:26]",
+   "source_turn_ids": [
+    "conv-26:D8:25",
+    "conv-26:D8:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline said that Melanie understanding the peace and serenity in Caroline’s art means a lot to her and makes her feel connected to Melanie. [source turns: conv-26:D14:9, conv-26:D14:10]",
+   "source_turn_ids": [
+    "conv-26:D14:9",
+    "conv-26:D14:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-13) Caroline feels that being herself is a great feeling and describes life as an ongoing adventure of learning and growing. [source turns: conv-26:D17:25, conv-26:D17:26]",
+   "source_turn_ids": [
+    "conv-26:D17:25",
+    "conv-26:D17:26"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-25) Caroline says art gives her great joy, helps her express her feelings, and lets her preserve beautiful moments, such as a bouquet of flowers; the accompanying photo shows a drawing of flowers on a table. [source turns: conv-26:D14:27, conv-26:D14:28]",
+   "source_turn_ids": [
+    "conv-26:D14:27",
+    "conv-26:D14:28"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-06) Caroline says her support network has been there for her throughout her transition, providing love, guidance, and acceptance; she feels she could not have managed without them. [source turns: conv-26:D6:13, conv-26:D6:14]",
+   "source_turn_ids": [
+    "conv-26:D6:13",
+    "conv-26:D6:14"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline considers exploring nature and spending time with family especially meaningful. [source turns: conv-26:D8:35, conv-26:D8:36]",
+   "source_turn_ids": [
+    "conv-26:D8:35",
+    "conv-26:D8:36"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-15) Caroline felt proud and grateful at the pride parade, where the amazing atmosphere comforted her by showing she was not alone and had a strong community around her. A photo showed a rainbow flag on a pole on a carpet. [source turns: conv-26:D8:21, conv-26:D8:22]",
+   "source_turn_ids": [
+    "conv-26:D8:21",
+    "conv-26:D8:22"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-10-22) Caroline described her journey as amazing and feels grateful that she can share it with Melanie while helping other people through their own journeys; she considers this a real gift. [source turns: conv-26:D19:11, conv-26:D19:12]",
+   "source_turn_ids": [
+    "conv-26:D19:11",
+    "conv-26:D19:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-08-17) Caroline believes it is important to surround oneself with things that bring joy because life is too short not to; she said this while encouraging Melanie about pottery that makes Melanie happy. [source turns: conv-26:D12:9, conv-26:D12:10]",
+   "source_turn_ids": [
+    "conv-26:D12:9",
+    "conv-26:D12:10"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-20) Melanie's family looks forward to their summer camping trip, where they roast marshmallows, tell stories around the campfire, and enjoy each other's company; she describes it as the highlight of their summer. The accompanying photo showed a fire pit with a large, spark-filled fire. [source turns: conv-26:D10:11, conv-26:D10:12]",
+   "source_turn_ids": [
+    "conv-26:D10:11",
+    "conv-26:D10:12"
+   ],
+   "kind": "fact"
+  },
+  {
+   "text": "(2023-07-12) Caroline says 'Becoming Nicole' taught her self-acceptance and how to find support, and reminded her that difficult times do not last and that hope and love exist. [source turns: conv-26:D7:13, conv-26:D7:14]",
+   "source_turn_ids": [
+    "conv-26:D7:13",
+    "conv-26:D7:14"
+   ],
+   "kind": "fact"
+  }
+ ],
+ "context_tokens": 1991,
+ "retrieval_s": 1.82,
+ "error": null
+}
