@@ -1,0 +1,782 @@
+[
+  {
+    "sample_id": "pilot_001",
+    "conversation_id": "conv-30",
+    "target_speaker": "Gina",
+    "current_input": {
+      "text": "In the elevator, the tattoo on my arm was visible beside my watch and my jacket cuff. I caught sight of the tattoo and suddenly felt free and self-assured.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "the tattoo on my arm"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my watch"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my jacket cuff"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_002",
+    "conversation_id": "conv-48",
+    "target_speaker": "Jolene",
+    "current_input": {
+      "text": "My pendant is in the jewelry tray beside a plain ring and a cleaning cloth. I counted the links in its chain and recorded its length for the repair form.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "my pendant"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a plain ring"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a cleaning cloth"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_003",
+    "conversation_id": "conv-43",
+    "target_speaker": "John",
+    "current_input": {
+      "text": "On the counter, there was a copper compass beside a plain napkin and a sealed envelope. Looking at the compass, I felt unexpectedly comforted and my breathing settled.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a copper compass"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a sealed envelope"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a plain napkin"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_004",
+    "conversation_id": "conv-48",
+    "target_speaker": "Jolene",
+    "current_input": {
+      "text": "At the jewelry counter, my pendant lay beside a plain ring and a cleaning cloth. The clerk dropped the pendant and cracked it; seeing the damage made me tear up in frustration.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a cleaning cloth"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my pendant"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a plain ring"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_005",
+    "conversation_id": "conv-30",
+    "target_speaker": "Gina",
+    "current_input": {
+      "text": "I rolled up my sleeve beside a filing cabinet. A loose metal edge scraped the tattooed area of my arm and left a bleeding cut; the sharp pain made me flinch and grab a tissue from the desk.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a tissue"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a filing cabinet"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the tattooed area of my arm"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_006",
+    "conversation_id": "conv-30",
+    "target_speaker": "Gina",
+    "current_input": {
+      "text": "My tattoo was visible beside my watch as I checked the letter on the kitchen table. It said I had been awarded the job I had just applied for, and reading that news made me grin with excitement.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "the letter"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my tattoo"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my watch"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_007",
+    "conversation_id": "conv-50",
+    "target_speaker": "Calvin",
+    "current_input": {
+      "text": "My octopus guitar is beside a plain stool and a folded cloth. I measured its case and added the dimensions to the shipping form. The form lists length, width, and depth.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a plain stool"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a folded cloth"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my octopus guitar"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_008",
+    "conversation_id": "conv-30",
+    "target_speaker": "Gina",
+    "current_input": {
+      "text": "At the office, a spiral-shaped paperweight sat beside a stapler and a blank notepad. When I looked at the paperweight, my throat tightened and I unexpectedly felt sad.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a blank notepad"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a stapler"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a spiral-shaped paperweight"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_009",
+    "conversation_id": "conv-44",
+    "target_speaker": "Audrey",
+    "current_input": {
+      "text": "I pushed back my sleeve beside the bathroom mirror, with a comb on the counter. Seeing the tattoos of my four dogs on my arm, I felt a rush of affection and smiled softly.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a comb"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "the tattoos of my four dogs"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the bathroom mirror"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_010",
+    "conversation_id": "conv-44",
+    "target_speaker": "Audrey",
+    "current_input": {
+      "text": "I could see the tattoos of my four dogs as I opened the vet's message beside a comb and a hand towel. The message said all four dogs had tested negative for the serious infection we were checking; that news made me smile with relief.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a hand towel"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "the vet's message"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the tattoos of my four dogs"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_011",
+    "conversation_id": "conv-43",
+    "target_speaker": "John",
+    "current_input": {
+      "text": "I was sorting a shelf with my old basketball shoes, an empty bottle, and a cleaning cloth. When I picked up the shoes, a surge of resolve came over me and I stood a little straighter.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "an empty bottle"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a cleaning cloth"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my old basketball shoes"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_012",
+    "conversation_id": "conv-44",
+    "target_speaker": "Audrey",
+    "current_input": {
+      "text": "The tattoos of my four dogs are visible above my bracelet. I measured the outlines for a sleeve fitting and wrote the numbers on the shirt's paper tag.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "the shirt's paper tag"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my bracelet"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the tattoos of my four dogs"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_013",
+    "conversation_id": "conv-48",
+    "target_speaker": "Jolene",
+    "current_input": {
+      "text": "I held my pendant over an open jewelry tray, with a plain ring and a cleaning cloth beside it. As I looked at the pendant, a quiet ache rose in my chest and I became teary.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a cleaning cloth"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my pendant"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a plain ring"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_014",
+    "conversation_id": "conv-43",
+    "target_speaker": "John",
+    "current_input": {
+      "text": "I was sorting a shelf with my old basketball shoes and a cleaning cloth when the coach called. He said I had won a place on the team after today's tryout; that news made me feel proud and determined.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "my old basketball shoes"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a cleaning cloth"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the coach"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_015",
+    "conversation_id": "conv-50",
+    "target_speaker": "Calvin",
+    "current_input": {
+      "text": "My octopus guitar was resting beside a plain stool when the courier knocked. He handed me the award certificate I had just won for my film, and seeing my name on it made me beam with pride.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "the award certificate"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a plain stool"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my octopus guitar"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_016",
+    "conversation_id": "conv-44",
+    "target_speaker": "Audrey",
+    "current_input": {
+      "text": "A cobalt-blue hourglass stood beside a comb and a folded hand towel. Looking at the hourglass, I felt a sudden ache of sadness and tears came to my eyes.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a comb"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a cobalt-blue hourglass"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a folded hand towel"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_017",
+    "conversation_id": "conv-43",
+    "target_speaker": "John",
+    "current_input": {
+      "text": "At home, I took my old basketball shoes out of a storage box beside a folded towel. Running a finger over the marks on the shoes, I felt quietly proud and determined again.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a folded towel"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my old basketball shoes"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a storage box"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_018",
+    "conversation_id": "conv-30",
+    "target_speaker": "Gina",
+    "current_input": {
+      "text": "I rolled up my sleeve while standing by a filing cabinet, with a stapler on the desk. Looking at the tattoo on my arm, I felt a burst of confidence and an urge to express myself.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a stapler"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "the tattoo on my arm"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a filing cabinet"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_019",
+    "conversation_id": "conv-26",
+    "target_speaker": "Caroline",
+    "current_input": {
+      "text": "My necklace is on the top shelf beside a folded scarf and a hair clip. Its clasp is silver-colored, and the scarf is blue. I entered those details in my inventory.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a hair clip"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my necklace"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a folded scarf"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_020",
+    "conversation_id": "conv-50",
+    "target_speaker": "Calvin",
+    "current_input": {
+      "text": "A brass maze puzzle sat beside a blank shipping form and a folded cloth. Looking at the puzzle, I felt a sudden surge of confidence and stood up straighter.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a brass maze puzzle"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a blank shipping form"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a folded cloth"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_021",
+    "conversation_id": "conv-26",
+    "target_speaker": "Caroline",
+    "current_input": {
+      "text": "While packing my overnight bag, I set my necklace next to a plain hair clip and a travel pouch. Looking at the necklace, I suddenly felt grounded and quietly reassured.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a travel pouch"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my necklace"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a plain hair clip"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_022",
+    "conversation_id": "conv-26",
+    "target_speaker": "Caroline",
+    "current_input": {
+      "text": "At the repair counter, I put my necklace beside a receipt and an empty jewelry box. The jeweler accidentally snapped its chain in front of me; I felt upset and asked them to fix the damage.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a receipt"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "an empty jewelry box"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my necklace"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_023",
+    "conversation_id": "conv-43",
+    "target_speaker": "John",
+    "current_input": {
+      "text": "My old basketball shoes are beside a storage box and a folded towel. The left sole has three dark marks and the right lace is longer. I wrote these measurements on the box label.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "my old basketball shoes"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a storage box"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a folded towel"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_024",
+    "conversation_id": "conv-50",
+    "target_speaker": "Calvin",
+    "current_input": {
+      "text": "My octopus guitar was standing beside a folded cloth and an empty case. The stand collapsed and the guitar's neck broke against the floor; I felt shocked and upset at the visible damage.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a folded cloth"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "an empty case"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my octopus guitar"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_025",
+    "conversation_id": "conv-48",
+    "target_speaker": "Jolene",
+    "current_input": {
+      "text": "I was wearing my pendant while reading a printed notice beside a travel pouch. The notice said my engineering scholarship had been withdrawn and I could no longer afford next term; the news made my chest tighten with worry.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a printed notice"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a travel pouch"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my pendant"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_026",
+    "conversation_id": "conv-48",
+    "target_speaker": "Jolene",
+    "current_input": {
+      "text": "A silver tuning fork lay beside a blank card and a sealed envelope. When I noticed the tuning fork, I unexpectedly felt a wave of affection and smiled to myself.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a sealed envelope"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a blank card"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a silver tuning fork"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_027",
+    "conversation_id": "conv-44",
+    "target_speaker": "Audrey",
+    "current_input": {
+      "text": "While folding a shirt, I could see the tattoos of my four dogs above my bracelet. I looked at the tattoos and a warm, affectionate feeling suddenly filled my chest.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "my bracelet"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "a shirt"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the tattoos of my four dogs"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_028",
+    "conversation_id": "conv-26",
+    "target_speaker": "Caroline",
+    "current_input": {
+      "text": "I was fastening my necklace beside the hallway mirror when my sister called to confirm she had arrived safely after an emergency landing. Hearing that she was safe made my shoulders relax with relief.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "my sister"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "the hallway mirror"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "my necklace"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_029",
+    "conversation_id": "conv-26",
+    "target_speaker": "Caroline",
+    "current_input": {
+      "text": "I was fastening my necklace beside the hallway mirror, with a folded scarf on the shelf. As my fingers touched the necklace, a steady warmth spread through me and my shoulders relaxed.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a folded scarf"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my necklace"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "the hallway mirror"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  },
+  {
+    "sample_id": "pilot_030",
+    "conversation_id": "conv-50",
+    "target_speaker": "Calvin",
+    "current_input": {
+      "text": "My octopus guitar was resting beside a plain stool and a folded cloth. When I looked at the octopus design, I felt a sudden warmth and quiet delight, and kept gazing at it.",
+      "cue_options": [
+        {
+          "cue_id": "cue_1",
+          "name": "a plain stool"
+        },
+        {
+          "cue_id": "cue_2",
+          "name": "my octopus guitar"
+        },
+        {
+          "cue_id": "cue_3",
+          "name": "a folded cloth"
+        },
+        {
+          "cue_id": "none",
+          "name": "no historically supported cue"
+        }
+      ]
+    }
+  }
+]

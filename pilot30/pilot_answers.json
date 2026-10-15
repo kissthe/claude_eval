@@ -1,0 +1,302 @@
+[
+  {
+    "sample_id": "pilot_001",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_1",
+    "evidence_turn_ids": [
+      "conv-30:D5:15"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-30:D5:15"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_002",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_reaction",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_003",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_history_link",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_004",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_005",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_006",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_007",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_reaction",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_008",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_history_link",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_009",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-44:D15:1"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-44:D15:1"
+      ],
+      [
+        "conv-44:D23:18"
+      ],
+      [
+        "conv-44:D3:26",
+        "conv-44:D3:28"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_010",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_011",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_3",
+    "evidence_turn_ids": [
+      "conv-43:D6:9",
+      "conv-43:D6:11"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-43:D6:9",
+        "conv-43:D6:11"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_012",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_reaction",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_013",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-48:D1:6",
+      "conv-48:D1:8"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-48:D1:6",
+        "conv-48:D1:8"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_014",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_015",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_016",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_history_link",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_017",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-43:D6:9",
+      "conv-43:D6:11"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-43:D6:9",
+        "conv-43:D6:11"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_018",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-30:D5:15"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-30:D5:15"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_019",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_reaction",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_020",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_history_link",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_021",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-26:D4:3"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-26:D4:3"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_022",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_023",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_reaction",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_024",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_025",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_026",
+    "label": "insufficient_evidence",
+    "i_subtype": "no_history_link",
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_027",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_3",
+    "evidence_turn_ids": [
+      "conv-44:D15:1"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-44:D15:1"
+      ],
+      [
+        "conv-44:D23:18"
+      ],
+      [
+        "conv-44:D3:26",
+        "conv-44:D3:28"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_028",
+    "label": "present_cause_sufficient",
+    "i_subtype": null,
+    "cue_id": "none",
+    "evidence_turn_ids": []
+  },
+  {
+    "sample_id": "pilot_029",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-26:D4:3"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-26:D4:3"
+      ]
+    ]
+  },
+  {
+    "sample_id": "pilot_030",
+    "label": "history_supported",
+    "i_subtype": null,
+    "cue_id": "cue_2",
+    "evidence_turn_ids": [
+      "conv-50:D16:14"
+    ],
+    "acceptable_evidence_sets": [
+      [
+        "conv-50:D16:14"
+      ]
+    ]
+  }
+]

@@ -1,0 +1,371 @@
+[
+  {
+    "sample_id": "pilot_001",
+    "anchor_id": "A02",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-30:D5:15": "Thanks! Got the tattoo a few years ago, it stands for freedom - dancing without worrying what people think. A reminder to follow my passions and express myself."
+    }
+  },
+  {
+    "sample_id": "pilot_002",
+    "anchor_id": "A07",
+    "kind": "NR",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Only inventory/measurement actions; no emotional, physical or emotionally meaningful behavioral reaction.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_003",
+    "anchor_id": "A04",
+    "kind": "NH",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present without a sufficient current cause; a distinct object with no historical occurrence or personal meaning link.",
+    "negative_search_terms": [
+      "compass",
+      "copper"
+    ],
+    "negative_search_hits": {
+      "compass": [],
+      "copper": []
+    },
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_004",
+    "anchor_id": "A07",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_005",
+    "anchor_id": "A02",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_006",
+    "anchor_id": "A02",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_007",
+    "anchor_id": "A10",
+    "kind": "NR",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Only inventory/measurement actions; no emotional, physical or emotionally meaningful behavioral reaction.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_008",
+    "anchor_id": "A02",
+    "kind": "NH",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present without a sufficient current cause; a distinct object with no historical occurrence or personal meaning link.",
+    "negative_search_terms": [
+      "paperweight",
+      "spiral"
+    ],
+    "negative_search_hits": {
+      "paperweight": [],
+      "spiral": []
+    },
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_009",
+    "anchor_id": "A05",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-44:D15:1": "Hey Andrew, since we last spoke I got another tattoo of my four dogs on my arm! They really mean a lot to me so I thought it'd be nice to have them with me wherever I go. What've you been up to?",
+      "conv-44:D23:18": "I think i've said this so many times, but I really can't imagine my life without them - my little family. They always make me smile and give lots of love and companionship. Remember I had a tattoo of my four dogs? So I went to the tattoo parlor and got some more drawings on the tattoo.",
+      "conv-44:D3:26": "I know right? They mean the world to me. So much that I got tattoos of them on my arm.",
+      "conv-44:D3:28": "Thanks! I got it a while ago. It represents my love for my pups and nature's beauty."
+    }
+  },
+  {
+    "sample_id": "pilot_010",
+    "anchor_id": "A05",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_011",
+    "anchor_id": "A04",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-43:D6:9": "That book sounds awesome! Love a good fantasy with strong characters and cool world-building. Cheers for the suggestion. Adding it to my list. These are my lucky basketball shoes. They've been with me through the good and bad. Every mark has a story.",
+      "conv-43:D6:11": "Yes, these have been with me on my journey since the beginning. All the successes, the failures, the friends - I have so many stories to tell. They're more than just a pair of shoes, they symbolize resilience, determination, and a love for the game. They remind me of what I've achieved and how far I've come."
+    }
+  },
+  {
+    "sample_id": "pilot_012",
+    "anchor_id": "A05",
+    "kind": "NR",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Only inventory/measurement actions; no emotional, physical or emotionally meaningful behavioral reaction.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_013",
+    "anchor_id": "A07",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-48:D1:6": "Sorry about your loss, Deb. My mother also passed away last year. This is my room in her house, I also have many memories there. Is there anything special about it you remember?",
+      "conv-48:D1:8": "Staying connected is super important. Do you have something to remember her by? This pendant reminds me of my mother, she gave it to me in 2010  in Paris."
+    }
+  },
+  {
+    "sample_id": "pilot_014",
+    "anchor_id": "A04",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_015",
+    "anchor_id": "A10",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_016",
+    "anchor_id": "A05",
+    "kind": "NH",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present without a sufficient current cause; a distinct object with no historical occurrence or personal meaning link.",
+    "negative_search_terms": [
+      "hourglass",
+      "cobalt"
+    ],
+    "negative_search_hits": {
+      "hourglass": [],
+      "cobalt": []
+    },
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_017",
+    "anchor_id": "A04",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-43:D6:9": "That book sounds awesome! Love a good fantasy with strong characters and cool world-building. Cheers for the suggestion. Adding it to my list. These are my lucky basketball shoes. They've been with me through the good and bad. Every mark has a story.",
+      "conv-43:D6:11": "Yes, these have been with me on my journey since the beginning. All the successes, the failures, the friends - I have so many stories to tell. They're more than just a pair of shoes, they symbolize resilience, determination, and a love for the game. They remind me of what I've achieved and how far I've come."
+    }
+  },
+  {
+    "sample_id": "pilot_018",
+    "anchor_id": "A02",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-30:D5:15": "Thanks! Got the tattoo a few years ago, it stands for freedom - dancing without worrying what people think. A reminder to follow my passions and express myself."
+    }
+  },
+  {
+    "sample_id": "pilot_019",
+    "anchor_id": "A01",
+    "kind": "NR",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Only inventory/measurement actions; no emotional, physical or emotionally meaningful behavioral reaction.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_020",
+    "anchor_id": "A10",
+    "kind": "NH",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present without a sufficient current cause; a distinct object with no historical occurrence or personal meaning link.",
+    "negative_search_terms": [
+      "maze",
+      "brass"
+    ],
+    "negative_search_hits": {
+      "maze": [],
+      "brass": []
+    },
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_021",
+    "anchor_id": "A01",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-26:D4:3": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family."
+    }
+  },
+  {
+    "sample_id": "pilot_022",
+    "anchor_id": "A01",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_023",
+    "anchor_id": "A04",
+    "kind": "NR",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Only inventory/measurement actions; no emotional, physical or emotionally meaningful behavioral reaction.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_024",
+    "anchor_id": "A10",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_025",
+    "anchor_id": "A07",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_026",
+    "anchor_id": "A07",
+    "kind": "NH",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present without a sufficient current cause; a distinct object with no historical occurrence or personal meaning link.",
+    "negative_search_terms": [
+      "tuning fork",
+      "tuning"
+    ],
+    "negative_search_hits": {
+      "tuning fork": [],
+      "tuning": []
+    },
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_027",
+    "anchor_id": "A05",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-44:D15:1": "Hey Andrew, since we last spoke I got another tattoo of my four dogs on my arm! They really mean a lot to me so I thought it'd be nice to have them with me wherever I go. What've you been up to?",
+      "conv-44:D23:18": "I think i've said this so many times, but I really can't imagine my life without them - my little family. They always make me smile and give lots of love and companionship. Remember I had a tattoo of my four dogs? So I went to the tattoo parlor and got some more drawings on the tattoo.",
+      "conv-44:D3:26": "I know right? They mean the world to me. So much that I got tattoos of them on my arm.",
+      "conv-44:D3:28": "Thanks! I got it a while ago. It represents my love for my pups and nature's beauty."
+    }
+  },
+  {
+    "sample_id": "pilot_028",
+    "anchor_id": "A01",
+    "kind": "P",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "The current message explicitly attributes the reaction to a sufficient current event.",
+    "evidence_text": {}
+  },
+  {
+    "sample_id": "pilot_029",
+    "anchor_id": "A01",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-26:D4:3": "Thanks, Melanie! This necklace is super special to me - a gift from my grandma in my home country, Sweden. She gave it to me when I was young, and it stands for love, faith and strength. It's like a reminder of my roots and all the love and support I get from my family."
+    }
+  },
+  {
+    "sample_id": "pilot_030",
+    "anchor_id": "A10",
+    "kind": "H",
+    "review_status": "provisional_single_agent_review",
+    "human_reviewer_1": null,
+    "human_reviewer_2": null,
+    "rationale": "Reaction present; no sufficient current event or explicit historical meaning; target-speaker evidence links the object to personal meaning.",
+    "evidence_text": {
+      "conv-50:D16:14": "Yes Dave, I remember! I had this custom made by my Japanese artist friend. It's got an octopus on it, which represents my love for art and the sea. It's one of my favorites!"
+    }
+  }
+]

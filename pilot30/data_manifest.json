@@ -1,0 +1,14 @@
+{
+  "protocol_version": "1.0",
+  "n": 30,
+  "source_sha256": "79fa87e90f04081343b8c8debecb80a9a6842b76a7aa537dc9fdf651ea698ff4",
+  "questions_sha256": "7243de582bfa35daa56111a1f2fe5b67afb83a74e8b6191b6cb53ed10f3f8760",
+  "answers_sha256": "ea52e8016ca5e8086e877cd6b2bb8895231819aff0c3150c24f42b2368cd68c2",
+  "human_review_completed": false,
+  "gold_status": "provisional",
+  "notes": [
+    "All X follow ALL original sessions; no session removal, renumbering or truncation.",
+    "No original QA, summaries, observations, query metadata, or gold are provided to the model.",
+    "Frozen candidate evidence alternatives are provisional; human agreement/kappa cannot be reported."
+  ]
+}
