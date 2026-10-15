@@ -73,6 +73,10 @@ def turn_line(t):
 def load_pilot():
     qs = json.loads((PILOT / "pilot_questions.json").read_text())
     ans = {a["sample_id"]: a for a in json.loads((PILOT / "pilot_answers.json").read_text())}
+    subset = os.environ.get("MEMEVAL_SAMPLES")  # comma-separated sample_ids for subset runs
+    if subset:
+        keep = set(subset.split(","))
+        qs = [q for q in qs if q["sample_id"] in keep]
     return qs, ans
 
 

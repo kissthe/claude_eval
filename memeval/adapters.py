@@ -239,8 +239,11 @@ class MemoryOS:
 # ======================================================================= Mem0
 
 def _mem0_config(path):
+    import os
+    # e.g. '{"is_reasoning_model": true, "max_tokens": 8000}' for reasoning models; set after probing.
+    llm_extra = json.loads(os.environ.get("MEMEVAL_MEM0_LLM_EXTRA", "{}"))
     return {
-        "llm": {"provider": "openai", "config": {"model": LLM_MODEL, "api_key": API_KEY, "openai_base_url": BASE_URL}},
+        "llm": {"provider": "openai", "config": {"model": LLM_MODEL, "api_key": API_KEY, "openai_base_url": BASE_URL, **llm_extra}},
         "embedder": {"provider": "openai", "config": {"model": EMB_MODEL, "api_key": API_KEY,
                                                        "openai_base_url": BASE_URL, "embedding_dims": 1536}},
         "vector_store": {"provider": "qdrant", "config": {"path": str(path / "qdrant"), "collection_name": "mem",

@@ -150,8 +150,11 @@ def cmd_read(a):
         rec = {"sample_id": q["sample_id"], "condition": cond, "model": LLM_MODEL, "input_chars": len(system) + len(msg)}
         t0 = time.time()
         try:
+            # Reasoning models reject temperature/max_tokens; they get max_completion_tokens instead.
+            gen = ({"max_completion_tokens": a.max_tokens} if a.reasoning
+                   else {"temperature": 0, "max_tokens": a.max_tokens})
             r = common.client().chat.completions.create(
-                model=LLM_MODEL, temperature=0, max_tokens=a.max_tokens,
+                model=LLM_MODEL, **gen,
                 messages=[{"role": "system", "content": system}, {"role": "user", "content": msg}],
                 **({"response_format": {"type": "json_object"}} if a.json_mode else {}))
             text = r.choices[0].message.content
@@ -184,7 +187,7 @@ if __name__ == "__main__":
     s = sub.add_parser("contexts"); s.add_argument("--run", required=True); s.add_argument("--conditions")
     s = sub.add_parser("read"); s.add_argument("--run", required=True); s.add_argument("--conditions")
     s.add_argument("--workers", type=int, default=8); s.add_argument("--max-tokens", type=int, default=1024)
-    s.add_argument("--json-mode", action="store_true")
+    s.add_argument("--json-mode", action="store_true"); s.add_argument("--reasoning", action="store_true")
     s = sub.add_parser("score"); s.add_argument("--run", required=True)
     a = p.parse_args()
     {"ingest": cmd_ingest, "contexts": cmd_contexts, "read": cmd_read, "score": cmd_score}[a.cmd](a)
