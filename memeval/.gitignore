@@ -4,3 +4,6 @@ cache/
 data/
 runs/*/snapshots/
 __pycache__/
+runs_*.out
+# run outputs are committed explicitly (git add -f) once a run has finished
+runs/
